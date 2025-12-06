@@ -1,0 +1,711 @@
+{
+  "metadata": {
+    "source": "Synthetic CCPA-compliant practices based on enforcement guidance and best practices",
+    "methodology": "Generated from regulatory requirements and enforcement case remediation",
+    "total_cases": 25,
+    "note": "These cases represent compliant data handling practices derived from what companies successfully implemented after AG enforcement actions and CCPA regulatory requirements"
+  },
+  "cases": [
+    {
+      "id": "permitted_001",
+      "title": "Online Retailer - Compliant Opt-Out with GPC Support",
+      "industry": "E-Commerce Retail",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Honors Global Privacy Control (GPC) signals from browsers",
+        "Processes opt-out requests within 10 business days",
+        "Maintains service provider relationships with contractual CCPA restrictions",
+        "Clearly discloses third-party sharing in privacy policy"
+      ],
+      "ci_parameters": {
+        "senders": "Online retailer",
+        "recipients": "Third-party service providers (advertising, analytics)",
+        "subject": "Customers",
+        "information_types": ["Purchase history", "Browsing behavior"],
+        "purposes": ["Service provision", "Marketing with consumer consent"],
+        "consent": "Explicit opt-out available; GPC signals honored"
+      },
+      "business_practices": [
+        "Posted clear Do Not Sell My Personal Information link on homepage",
+        "Updated all service provider contracts with CCPA addendums",
+        "Implemented technology stack to detect and honor GPC",
+        "Trained staff on CCPA requirements",
+        "Established 30-day response timeline for consumer requests"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (right to know), § 1798.105 (right to delete), § 1798.120 (right to opt-out)"
+    },
+    {
+      "id": "permitted_002",
+      "title": "Retail Loyalty Program - Compliant Financial Incentive",
+      "industry": "Multi-Channel Retail",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted compliant Notice of Financial Incentive at point of sale and online",
+        "Clearly disclosed material terms of incentive program",
+        "Obtained express opt-in consent before enrolling in loyalty program",
+        "Allowed consumers to withdraw from program at any time"
+      ],
+      "ci_parameters": {
+        "senders": "Retail business",
+        "recipients": "Consumers",
+        "subject": "Loyalty program participants",
+        "information_types": ["Purchase data", "Personal information"],
+        "purposes": ["Financial incentive program (loyalty rewards)"],
+        "consent": "Express opt-in with material terms clearly disclosed"
+      },
+      "business_practices": [
+        "Displayed Notice of Financial Incentive with program terms before enrollment",
+        "Used clear, non-technical language understandable to average consumer",
+        "Deep-linked online notices to ensure easy access",
+        "Tracked consumer consent for audit purposes",
+        "Provided simple opt-out mechanism for withdrawing from program"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (notice requirements), California Civil Code § 1798.100(e) (financial incentive notices)"
+    },
+    {
+      "id": "permitted_003",
+      "title": "Technology Company - Comprehensive Privacy Policy",
+      "industry": "Software as a Service",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Published comprehensive privacy policy with all required disclosures",
+        "Clearly stated consumer rights (right to know, delete, opt-out, non-discrimination)",
+        "Provided multiple request submission methods (online, email, phone)",
+        "Responded to requests within statutory 45-day timeline"
+      ],
+      "ci_parameters": {
+        "senders": "SaaS platform",
+        "recipients": "Consumers/users",
+        "subject": "Platform users",
+        "information_types": ["Account information", "Usage analytics"],
+        "purposes": ["Service provision", "Platform improvement"],
+        "consent": "Transparent disclosure with clear opt-out options"
+      },
+      "business_practices": [
+        "Implemented dedicated privacy page on website",
+        "Listed all categories of personal information collected",
+        "Disclosed all third parties receiving personal information",
+        "Implemented automated request processing system",
+        "Trained customer service team on CCPA verification procedures",
+        "Maintained audit trail of all consumer requests"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (privacy policy requirements), § 1798.130 (request procedures)"
+    },
+    {
+      "id": "permitted_004",
+      "title": "Healthcare Provider - Medical Information Protection",
+      "industry": "Healthcare",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Processed right to know and right to delete requests separately",
+        "Trained all staff on CCPA requirements and request handling",
+        "Implemented verification procedures for sensitive medical information",
+        "Maintained secure request processing with documented responses"
+      ],
+      "ci_parameters": {
+        "senders": "Healthcare provider",
+        "recipients": "Patients/consumers",
+        "subject": "Patients",
+        "information_types": ["Medical records", "Health insurance information"],
+        "purposes": ["Healthcare service delivery"],
+        "consent": "Patients have right to access and delete their medical information"
+      },
+      "business_practices": [
+        "Established separate request tracking for know vs. delete requests",
+        "Implemented staff training program on CCPA and medical privacy",
+        "Created system to verify patient identity before disclosure",
+        "Documented all request handling decisions",
+        "Responded to requests within 45-day statutory period"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (right to know), § 1798.105 (right to delete), HIPAA coordination"
+    },
+    {
+      "id": "permitted_005",
+      "title": "Medical Device Manufacturer - Unrestricted Consumer Rights",
+      "industry": "Medical Devices",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Removed all conditions on exercising CCPA rights",
+        "Accepted unlimited requests without per-consumer request limits",
+        "Provided direct Do Not Sell My Personal Information link",
+        "Clearly disclosed data sales in privacy policy"
+      ],
+      "ci_parameters": {
+        "senders": "Medical device manufacturer",
+        "recipients": "Consumers",
+        "subject": "Customers/patients",
+        "information_types": ["Personal information from website/product registration"],
+        "purposes": ["Product information", "Customer service"],
+        "consent": "No conditions on exercising rights; unlimited requests accepted"
+      },
+      "business_practices": [
+        "Removed terms of service conditions on CCPA rights",
+        "Eliminated per-consumer request limits",
+        "Added prominent Do Not Sell link on website",
+        "Updated privacy policy to list all third-party recipients",
+        "Established clear data sales disclosure process"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (right to know), § 1798.120 (right to opt-out of sale)"
+    },
+    {
+      "id": "permitted_006",
+      "title": "Telehealth Platform - Clear Notice and Disclosure",
+      "industry": "Healthcare Technology",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted easily accessible Notice at Collection with deep links",
+        "Listed all categories of personal information collected",
+        "Disclosed all third-party recipients of personal information",
+        "Provided complete information for making verifiable consumer requests"
+      ],
+      "ci_parameters": {
+        "senders": "Telehealth platform",
+        "recipients": "Healthcare providers, third-party service providers",
+        "subject": "Patients/users",
+        "information_types": ["Healthcare data", "Video consultation records"],
+        "purposes": ["Telehealth service delivery"],
+        "consent": "Clear disclosure of collection and use"
+      },
+      "business_practices": [
+        "Deep-linked Notice at Collection to relevant privacy policy sections",
+        "Organized privacy policy with clear section navigation",
+        "Listed specific categories of personal information by purpose",
+        "Included step-by-step instructions for making CCPA requests",
+        "Provided verifiable request form on website"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (notice at collection), § 1798.130 (request processes)"
+    },
+    {
+      "id": "permitted_007",
+      "title": "Fitness Center Chain - Clear, Simple Opt-Out",
+      "industry": "Fitness Industry",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Provided simple, understandable opt-out interface",
+        "Used intuitive toggle logic (on = opt-out, off = opted in)",
+        "Separated opt-out from cookie preferences",
+        "Offered opt-out to all users regardless of location"
+      ],
+      "ci_parameters": {
+        "senders": "Fitness center chain",
+        "recipients": "Third-party advertisers",
+        "subject": "Members/website visitors",
+        "information_types": ["Membership data", "Fitness preferences"],
+        "purposes": ["Membership services", "Targeted advertising"],
+        "consent": "Clear, unambiguous opt-out mechanism"
+      },
+      "business_practices": [
+        "Redesigned opt-out page with simple language",
+        "Used single toggle: on = opted out, off = opted in",
+        "Removed confusing dropdowns and multiple options",
+        "Separated Do Not Sell from cookie preferences",
+        "Offered opt-out to all users (California and non-California)"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (right to opt-out), California Code of Regulations § 999.305"
+    },
+    {
+      "id": "permitted_008",
+      "title": "Financial Technology - Age-Appropriate Data Handling",
+      "industry": "FinTech",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Segregated and protected data for minors under 18",
+        "Clearly stated no sale of minors' personal information",
+        "Provided age-appropriate notices and request methods",
+        "Implemented age verification for account creation"
+      ],
+      "ci_parameters": {
+        "senders": "FinTech company",
+        "recipients": "Service users (age-segmented)",
+        "subject": "Minors (13-17) and adults (18+)",
+        "information_types": ["Financial information", "Age-based data"],
+        "purposes": ["Financial service provision"],
+        "consent": "Age-appropriate consent mechanisms"
+      },
+      "business_practices": [
+        "Implemented data segregation by age cohort",
+        "Posted clear statement: No sale of minors' data",
+        "Added age verification on app installation",
+        "Provided parental consent tools for minors",
+        "Implemented different privacy notices for different age groups"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (minors' rights), CPRA § 1798.120 (opt-out for minors)"
+    },
+    {
+      "id": "permitted_009",
+      "title": "Data Broker - User-Friendly Opt-Out Process",
+      "industry": "Data Broker",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Provided simple webform that works across all browsers",
+        "Eliminated onerous verification requirements for opt-out",
+        "Did not require account creation to submit requests",
+        "Offered multiple request submission methods"
+      ],
+      "ci_parameters": {
+        "senders": "Data broker",
+        "recipients": "Data consumers",
+        "subject": "Individuals in database",
+        "information_types": ["Personal information", "Contact information"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Simple, frictionless opt-out process"
+      },
+      "business_practices": [
+        "Created webform that functions on all browsers and devices",
+        "Accepted opt-out requests without ID verification",
+        "Eliminated account creation requirement",
+        "Offered email, phone, and webform request methods",
+        "Processed opt-out requests within 10 business days"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (right to opt-out), § 1798.130 (request procedures)"
+    },
+    {
+      "id": "permitted_010",
+      "title": "Clothing Retailer - Separate, Clear Opt-Out Button",
+      "industry": "Retail",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Provided dedicated button for opting out of sale",
+        "Clearly separated from cookie/preference management",
+        "Made opt-out equally available to all visitors",
+        "Clearly explained function of each button"
+      ],
+      "ci_parameters": {
+        "senders": "Clothing retailer",
+        "recipients": "Third-party data buyers",
+        "subject": "Website visitors/customers",
+        "information_types": ["Shopping behavior", "Transaction data"],
+        "purposes": ["Retail sales", "Sale of data to advertisers"],
+        "consent": "Clear opt-out mechanism separate from cookie settings"
+      },
+      "business_practices": [
+        "Added dedicated Do Not Sell button on homepage",
+        "Labeled button clearly: Do Not Sell My Personal Information",
+        "Separated from cookie consent banner",
+        "Made button equally visible to all users",
+        "Provided confirmation after successful opt-out"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (right to opt-out), § 1798.135 (implementation requirements)"
+    },
+    {
+      "id": "permitted_011",
+      "title": "Technology Platform - Authorized Agent Support",
+      "industry": "Technology",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Allowed consumers to submit requests via authorized agents",
+        "Provided clear instructions for agent verification",
+        "Trained staff on CCPA and authorized agent requirements",
+        "Implemented Global Privacy Control (GPC) processing"
+      ],
+      "ci_parameters": {
+        "senders": "Technology platform",
+        "recipients": "Authorized agents acting for consumers",
+        "subject": "Consumers",
+        "information_types": ["Account information", "Personal data"],
+        "purposes": ["Service provision"],
+        "consent": "Supports consumer rights exercise through agents"
+      },
+      "business_practices": [
+        "Posted authorized agent procedures on website",
+        "Trained customer service on authorized agent verification",
+        "Updated privacy policy with agent procedures",
+        "Implemented GPC signal detection and processing",
+        "Accepted agent requests with minimal burden"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (authorized agents), § 1798.120 (GPC requirements)"
+    },
+    {
+      "id": "permitted_012",
+      "title": "Telecommunications Provider - Functional Request Portal",
+      "industry": "Telecommunications",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Maintained fully functional CCPA request portal",
+        "Accepted requests through multiple channels",
+        "Processed requests within statutory 45-day period",
+        "Provided verification of request receipt and processing"
+      ],
+      "ci_parameters": {
+        "senders": "Telecom provider",
+        "recipients": "Customers",
+        "subject": "Service subscribers",
+        "information_types": ["Account data", "Service usage information"],
+        "purposes": ["Telecommunications service provision"],
+        "consent": "Multiple accessible request channels"
+      },
+      "business_practices": [
+        "Regularly tested CCPA portal functionality",
+        "Monitored for bugs and user experience issues",
+        "Offered phone, online, and in-store request options",
+        "Sent confirmation and response to consumer via email",
+        "Tracked all requests in audit log"
+      ],
+      "regulatory_reference": "CCPA § 1798.130 (request procedures), § 1798.100 (response timelines)"
+    },
+    {
+      "id": "permitted_013",
+      "title": "AdTech Company - Clear, Accessible Privacy Disclosures",
+      "industry": "Advertising Technology",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Published privacy policy with clear, accessible language",
+        "Included all required CCPA information",
+        "Provided user-friendly opt-out mechanism",
+        "Included working links and functional request methods"
+      ],
+      "ci_parameters": {
+        "senders": "AdTech platform",
+        "recipients": "Advertisers",
+        "subject": "Website visitors",
+        "information_types": ["Online behavior", "Ad targeting data"],
+        "purposes": ["Targeted advertising"],
+        "consent": "Clear opt-out available"
+      },
+      "business_practices": [
+        "Wrote privacy policy for average consumer understanding",
+        "Organized policy with clear headings and sections",
+        "Listed specific data practices and third parties",
+        "Provided functional opt-out process",
+        "Hired UX expert to optimize request interface"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (privacy policy requirements), California Code of Regulations § 999.305"
+    },
+    {
+      "id": "permitted_014",
+      "title": "Email Marketing Company - Service Provider Status",
+      "industry": "Marketing Services",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Clearly documented service provider status",
+        "Prohibited use of customer data across different clients",
+        "Updated terms of service with CCPA service provider language",
+        "Maintained contracts with CCPA-compliant provisions"
+      ],
+      "ci_parameters": {
+        "senders": "Email marketing service",
+        "recipients": "Service provider relationship",
+        "subject": "Consumer email recipients",
+        "information_types": ["Email addresses", "Marketing lists"],
+        "purposes": ["Email marketing on behalf of customers"],
+        "consent": "Service provider restrictions apply"
+      },
+      "business_practices": [
+        "Defined clear service provider boundaries",
+        "Prohibited data sharing between customers",
+        "Updated all service agreements with CCPA addendums",
+        "Implemented data segregation by customer",
+        "Trained staff on service provider obligations"
+      ],
+      "regulatory_reference": "CCPA § 1798.140 (service provider definition), § 1798.100 (restrictions)"
+    },
+    {
+      "id": "permitted_015",
+      "title": "Social Media Network - CCPA-Compliant Service Contracts",
+      "industry": "Social Media",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Updated all service provider contracts with CCPA addendums",
+        "Explicitly restricted service provider use of personal information",
+        "Prohibited retention and secondary use of data",
+        "Monitored service provider compliance"
+      ],
+      "ci_parameters": {
+        "senders": "Social media platform",
+        "recipients": "Third-party service providers",
+        "subject": "Platform users",
+        "information_types": ["User profiles", "Usage data", "Behavioral data"],
+        "purposes": ["Service provision", "Platform operation"],
+        "consent": "Service provider contractual restrictions"
+      },
+      "business_practices": [
+        "Reviewed all third-party service contracts",
+        "Added CCPA-specific addendum clauses",
+        "Required data deletion after service termination",
+        "Prohibited cookie placement for service providers",
+        "Established regular compliance audits"
+      ],
+      "regulatory_reference": "CCPA § 1798.140 (service provider restrictions), § 1798.100(d)"
+    },
+    {
+      "id": "permitted_016",
+      "title": "Online Event Ticketer - Clear Information Disclosure",
+      "industry": "Events and Entertainment",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted comprehensive privacy policy",
+        "Disclosed all categories of information collected",
+        "Clearly stated whether data is sold or shared",
+        "Provided multiple request submission methods"
+      ],
+      "ci_parameters": {
+        "senders": "Event ticketing platform",
+        "recipients": "Consumers",
+        "subject": "Event attendees",
+        "information_types": ["Ticket purchase data", "Personal information"],
+        "purposes": ["Event ticketing and attendance"],
+        "consent": "Clear disclosure, no sale of data"
+      },
+      "business_practices": [
+        "Updated privacy policy with all required information",
+        "Clearly stated: We do not sell personal information",
+        "Listed all third parties receiving data",
+        "Provided phone, email, and web request methods",
+        "Confirmed no data sales in business model"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (privacy policy requirements), § 1798.120 (sales disclosure)"
+    },
+    {
+      "id": "permitted_017",
+      "title": "Online Dating App - Compliant Sales Disclosure",
+      "industry": "Dating and Social",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted clear Do Not Sell My Personal Information link",
+        "Disclosed specific data sales in privacy policy",
+        "Required specific opt-in for sales (separate from account creation)",
+        "Allowed easy withdrawal from sales"
+      ],
+      "ci_parameters": {
+        "senders": "Dating platform",
+        "recipients": "Data brokers",
+        "subject": "App users",
+        "information_types": ["Profile information", "Preferences"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Explicit opt-in for sales, separate from service"
+      },
+      "business_practices": [
+        "Added prominent Do Not Sell link on homepage",
+        "Separated sales consent from account creation",
+        "Created dedicated sales disclosure in privacy policy",
+        "Implemented easy withdrawal mechanism",
+        "Clarified what data is subject to sale"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (opt-out of sale), § 1798.135 (Do Not Sell links)"
+    },
+    {
+      "id": "permitted_018",
+      "title": "AdTech Platform Dual-Role - Clear CCPA Classification",
+      "industry": "Advertising",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Clearly distinguished between business and service provider roles",
+        "Updated privacy policy to reflect dual roles",
+        "Provided accessible request submission methods",
+        "Maintained compliant service provider contracts"
+      ],
+      "ci_parameters": {
+        "senders": "Dual-role advertising platform",
+        "recipients": "Varies by role (advertisers vs. service providers)",
+        "subject": "Consumers",
+        "information_types": ["Ad viewing data", "Behavior data"],
+        "purposes": ["Ad targeting", "Service provision"],
+        "consent": "Role-specific CCPA obligations"
+      },
+      "business_practices": [
+        "Mapped all business lines to CCPA status",
+        "Clarified which divisions are businesses vs. service providers",
+        "Created separate privacy notices where appropriate",
+        "Implemented role-based consent mechanisms",
+        "Updated legal agreements to reflect roles"
+      ],
+      "regulatory_reference": "CCPA § 1798.140 (business/service provider definitions)"
+    },
+    {
+      "id": "permitted_019",
+      "title": "Social Media App - Timely, Accurate Request Handling",
+      "industry": "Social Media",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Responded to requests within statutory 45-day period",
+        "Provided acknowledgment of request receipt",
+        "Confirmed completion of request actions",
+        "Maintained detailed request tracking logs"
+      ],
+      "ci_parameters": {
+        "senders": "Social media app",
+        "recipients": "Users",
+        "subject": "App users",
+        "information_types": ["User data", "Account information"],
+        "purposes": ["Social networking service"],
+        "consent": "Timely fulfillment of consumer rights"
+      },
+      "business_practices": [
+        "Implemented request tracking system",
+        "Set automatic reminders for 45-day deadline",
+        "Sent email confirmation upon request receipt",
+        "Sent confirmation upon request completion",
+        "Maintained audit logs for regulatory review"
+      ],
+      "regulatory_reference": "CCPA § 1798.130 (response timelines), § 1798.100 (request procedures)"
+    },
+    {
+      "id": "permitted_020",
+      "title": "Toys Retailer - Compliant Privacy Notices",
+      "industry": "Retail",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted comprehensive privacy policy",
+        "Disclosed all consumer rights",
+        "Provided multiple request submission methods",
+        "Clearly stated no fees for requests"
+      ],
+      "ci_parameters": {
+        "senders": "Toys retailer",
+        "recipients": "Consumers",
+        "subject": "Customers (including children)",
+        "information_types": ["Purchase data", "Customer information"],
+        "purposes": ["Toy retail"],
+        "consent": "Clear disclosure without restrictions"
+      },
+      "business_practices": [
+        "Updated privacy policy with all required CCPA notices",
+        "Explicitly stated: No fees for consumer requests",
+        "Listed categories of information collected",
+        "Stated no sale of personal information",
+        "Provided phone, email, and web request methods"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (privacy policy), § 1798.130 (free requests)"
+    },
+    {
+      "id": "permitted_021",
+      "title": "Grocery Chain - Transparent Loyalty Program",
+      "industry": "Grocery Retail",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Posted clear Notice of Financial Incentive",
+        "Disclosed material incentive terms",
+        "Obtained explicit consent for data exchange",
+        "Allowed easy program withdrawal"
+      ],
+      "ci_parameters": {
+        "senders": "Grocery chain",
+        "recipients": "Loyalty program participants",
+        "subject": "Shoppers",
+        "information_types": ["Purchase data", "Loyalty rewards"],
+        "purposes": ["Financial incentive program"],
+        "consent": "Express consent with full disclosure"
+      },
+      "business_practices": [
+        "Posted Notice at checkout and online",
+        "Disclosed exact discount/reward amounts",
+        "Obtained written opt-in before enrollment",
+        "Sent yearly notices of incentive changes",
+        "Allowed one-click program withdrawal"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (financial incentives), California Civil Code § 1798.100(e)"
+    },
+    {
+      "id": "permitted_022",
+      "title": "Online Classifieds - Clear, Readable Privacy Policy",
+      "industry": "Online Marketplace",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Published clear, readable privacy policy",
+        "Avoided unnecessary legal jargon",
+        "Listed all categories of information disclosed",
+        "Clearly stated data practices"
+      ],
+      "ci_parameters": {
+        "senders": "Classifieds platform",
+        "recipients": "Consumers",
+        "subject": "Classifieds users",
+        "information_types": ["Classified posting info", "User data"],
+        "purposes": ["Classified ads marketplace"],
+        "consent": "Clear, understandable disclosure"
+      },
+      "business_practices": [
+        "Rewrote privacy policy for plain language",
+        "Used short sentences and clear headings",
+        "Organized by consumer questions rather than legal requirements",
+        "Listed specific data practices in accessible format",
+        "Provided glossary of technical terms"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (readable privacy policies), California Code of Regulations § 999.305"
+    },
+    {
+      "id": "permitted_023",
+      "title": "Media Company - Unified Opt-Out System",
+      "industry": "Digital Media",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Streamlined opt-out process across all digital properties",
+        "Single request opts out of sales across portfolio",
+        "Added Do Not Sell link to all websites",
+        "Made request methods consistent across properties"
+      ],
+      "ci_parameters": {
+        "senders": "Media company (multi-property)",
+        "recipients": "Advertisers",
+        "subject": "Website visitors",
+        "information_types": ["Browsing behavior", "User data"],
+        "purposes": ["Targeted advertising"],
+        "consent": "Unified opt-out mechanism"
+      },
+      "business_practices": [
+        "Unified backend CCPA request system",
+        "Single opt-out request applies to all properties",
+        "Added Do Not Sell link to all sites",
+        "Standardized request procedures across portfolio",
+        "Centralized opt-out tracking"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (opt-out), § 1798.135 (Do Not Sell implementation)"
+    },
+    {
+      "id": "permitted_024",
+      "title": "Location Data Broker - Clear Opt-Out Mechanism",
+      "industry": "Data Broker",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Provided clear webform for CCPA opt-out",
+        "Distinguished device settings from CCPA opt-out",
+        "Prominently featured webform on opt-out page",
+        "Clearly explained function of each tool"
+      ],
+      "ci_parameters": {
+        "senders": "Location data broker",
+        "recipients": "Data buyers",
+        "subject": "Individuals",
+        "information_types": ["Location data"],
+        "purposes": ["Sale of location data"],
+        "consent": "Clear, distinct opt-out method"
+      },
+      "business_practices": [
+        "Created dedicated CCPA opt-out webform",
+        "Explained: Webform = CCPA opt-out, Settings = Device tracking",
+        "Made webform prominent on opt-out page",
+        "Provided success confirmation",
+        "Processed opt-outs within 10 business days"
+      ],
+      "regulatory_reference": "CCPA § 1798.120 (opt-out), § 1798.130 (request procedures)"
+    },
+    {
+      "id": "permitted_025",
+      "title": "Automotive Company - Complete Consumer Information",
+      "industry": "Automotive",
+      "compliance_type": "permitted",
+      "ccpa_compliant_practices": [
+        "Provided notice at collection for all data collection points",
+        "Updated privacy policy with complete CCPA disclosures",
+        "Offered multiple request submission methods",
+        "Included toll-free number for consumer inquiries"
+      ],
+      "ci_parameters": {
+        "senders": "Automotive dealer",
+        "recipients": "Consumers",
+        "subject": "Test drive participants and customers",
+        "information_types": ["Personal information from test drives"],
+        "purposes": ["Automotive sales and service"],
+        "consent": "Complete disclosure at all collection points"
+      },
+      "business_practices": [
+        "Posted notice at collection for test drives (in-person and online)",
+        "Updated privacy policy with authorized agent procedures",
+        "Added toll-free number for CCPA requests",
+        "Fixed all online request methods",
+        "Trained sales staff on notice requirements"
+      ],
+      "regulatory_reference": "CCPA § 1798.100 (notice at collection), § 1798.130 (multiple request methods)"
+    }
+  ]
+}

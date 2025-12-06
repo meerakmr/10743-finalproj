@@ -1,0 +1,378 @@
+[
+  {
+    "case_id": "CCPA_PERMITTED_001",
+    "company": "LinkedIn",
+    "industry": "Social Media/Professional Network",
+    "compliance_type": "permitted",
+    "description": "LinkedIn's privacy policy demonstrates CCPA compliance by implementing comprehensive data minimization, user choice, and transparency mechanisms. The policy explicitly states user rights including access, correction, and deletion through Privacy Center settings.",
+    "ccpa_practices": [
+      "Data minimization - only collects necessary profile information",
+      "User consent for tracking via cookies and similar technologies",
+      "Opt-out options for personalized advertising and direct marketing",
+      "Clear privacy controls in Privacy Center for location, emergency data sharing, and notifications",
+      "Explicit consent withdrawal mechanisms",
+      "Data retention policies with user deletion options"
+    ],
+    "ci_parameters": {
+      "sender": "LinkedIn Corporation",
+      "sender_role": "Data Controller",
+      "recipient": "End users",
+      "recipient_role": "Data Subject",
+      "subject": "Professional user profile data",
+      "subject_role": "Individual LinkedIn member",
+      "information_types": [
+        "Profile information (name, email, work history, skills)",
+        "Communication data (messages, invitations)",
+        "Usage data (search history, content viewed)",
+        "Device data (IP address, browser type)"
+      ],
+      "purposes": [
+        "Provide core services (networking, job matching)",
+        "Personalize user experience",
+        "Enable user-requested features"
+      ],
+      "consent_form": "Explicit opt-in for marketing communications and personalized advertising; opt-out available",
+      "transmission_principle": "User-controlled sharing with connections and designated third parties"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_002",
+    "company": "Google",
+    "industry": "Technology/Search",
+    "compliance_type": "permitted",
+    "description": "Google's privacy policy complies with CCPA requirements by providing detailed disclosures of data collection, explicit section on CCPA compliance, user privacy controls (My Ad Center, Privacy Checkup), and mechanisms for accessing, correcting, and deleting personal data.",
+    "ccpa_practices": [
+      "Detailed disclosure of information categories collected",
+      "Explicit CCPA compliance statement noting no sale of personal information",
+      "Privacy Checkup tool for reviewing privacy settings",
+      "My Ad Center for controlling personalized advertisements",
+      "Data export and deletion options through Google Takeout",
+      "Clear opt-out mechanisms for personalized advertising"
+    ],
+    "ci_parameters": {
+      "sender": "Google LLC",
+      "sender_role": "Data Controller",
+      "recipient": "End users and service partners",
+      "recipient_role": "Data Subject and authorized recipients",
+      "subject": "Search, browsing, and account activity",
+      "subject_role": "Individual Google account holder or visitor",
+      "information_types": [
+        "Search terms and queries",
+        "Browsing and app activity",
+        "Location information (GPS, IP address)",
+        "Device information",
+        "Communication data from Gmail and other services"
+      ],
+      "purposes": [
+        "Provide core search and services",
+        "Improve and develop services",
+        "Personalize content and ads",
+        "Research and development"
+      ],
+      "consent_form": "Opt-in for personalization; users can disable tracking in Activity Controls",
+      "transmission_principle": "Transparent sharing with authorized partners under contractual obligations"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_003",
+    "company": "Amazon",
+    "industry": "Retail/E-commerce",
+    "compliance_type": "permitted",
+    "description": "Amazon's privacy policy demonstrates CCPA compliance through explicit statements about not selling personal information, comprehensive user choice mechanisms, access to data through 'Your Account' portal, and clear data deletion options.",
+    "ccpa_practices": [
+      "Explicit statement: 'We are not in the business of selling customers' personal information'",
+      "Customer Communication Preferences for managing email and notifications",
+      "Browsing history management and recommendation controls",
+      "Personalized advertising opt-out through 'Your Ads Privacy Choices'",
+      "Data access and portability through account section",
+      "Cookie controls and browser-level privacy options"
+    ],
+    "ci_parameters": {
+      "sender": "Amazon.com, Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Customers and authorized service providers",
+      "recipient_role": "Data Subject",
+      "subject": "Purchase history, account information, browsing activity",
+      "subject_role": "Amazon customer",
+      "information_types": [
+        "Account information (name, address, payment method)",
+        "Purchase and delivery information",
+        "Browsing and search history",
+        "Device data and usage metrics",
+        "Communications and support interactions"
+      ],
+      "purposes": [
+        "Fulfill orders and deliver services",
+        "Personalize recommendations",
+        "Fraud prevention and security",
+        "Targeted advertising"
+      ],
+      "consent_form": "Implicit consent for primary services; explicit opt-out for marketing and personalized ads",
+      "transmission_principle": "Limited sharing with third-party service providers under strict confidentiality agreements"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_004",
+    "company": "Uber",
+    "industry": "Transportation/Delivery Services",
+    "compliance_type": "permitted",
+    "description": "Uber demonstrates CCPA compliance through comprehensive privacy controls, explicit data sharing disclosures, user request mechanisms for access and deletion, and detailed retention schedules. The policy provides clear opt-outs for personalized marketing and advertising.",
+    "ccpa_practices": [
+      "Privacy Center with location, emergency data sharing, and notification controls",
+      "Personalized marketing communication opt-out options",
+      "Personalized advertising choices with ability to disable on Uber and Uber Eats",
+      "Cookie and related technology controls through Cookie Notice",
+      "Data download and exploration features via Privacy Dashboard",
+      "Account deletion through Privacy Center with 90-day deletion timeline"
+    ],
+    "ci_parameters": {
+      "sender": "Uber Technologies, Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Riders, drivers, delivery people, and authorized partners",
+      "recipient_role": "Data Subject",
+      "subject": "Trip/order information, location data, payment information",
+      "subject_role": "Uber rider or order recipient",
+      "information_types": [
+        "Account information (name, email, payment method)",
+        "Precise location data and trip details",
+        "Demographic information (age, gender)",
+        "Identity verification information (government ID, photos)",
+        "Communication data (messages, phone calls)"
+      ],
+      "purposes": [
+        "Provide ride/delivery matching and completion",
+        "Calculate prices and process payments",
+        "Enhance safety and security",
+        "Personalize marketing and ads"
+      ],
+      "consent_form": "Device permissions-based consent for precise location; opt-in for personalized marketing",
+      "transmission_principle": "Controlled sharing with matched driver/delivery person and authorized service providers"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_005",
+    "company": "Microsoft",
+    "industry": "Technology/Cloud Services",
+    "compliance_type": "permitted",
+    "description": "Microsoft's privacy statement complies with CCPA by clearly describing data categories, providing extensive user control mechanisms (privacy dashboard, opt-out pages), and detailing choices for managing personal data across multiple products and services.",
+    "ccpa_practices": [
+      "U.S. State Data Privacy Laws Notice with specific CCPA provisions",
+      "Privacy dashboard for managing personal data",
+      "Opt-out page for personalized advertising (including Xandr)",
+      "Communication preference controls for promotional materials",
+      "Detailed data retention policies",
+      "Clear explanation of user rights under CCPA and other state laws"
+    ],
+    "ci_parameters": {
+      "sender": "Microsoft Corporation",
+      "sender_role": "Data Controller",
+      "recipient": "End users and enterprise customers",
+      "recipient_role": "Data Subject",
+      "subject": "Account data, device usage, application interaction",
+      "subject_role": "Microsoft account holder",
+      "information_types": [
+        "Credentials and account information",
+        "Device and usage data",
+        "Contact and communication data",
+        "Payment information",
+        "Location data (if enabled)"
+      ],
+      "purposes": [
+        "Provide products and services",
+        "Improve and develop offerings",
+        "Personalize experiences",
+        "Advertising and marketing"
+      ],
+      "consent_form": "Explicit consent required for optional cookies; opt-out mechanisms for personalized advertising",
+      "transmission_principle": "Sharing with affiliates and authorized service providers under DPF and contractual frameworks"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_006",
+    "company": "Apple",
+    "industry": "Consumer Electronics/Technology",
+    "compliance_type": "permitted",
+    "description": "Apple's privacy policy emphasizes data minimization and user privacy by limiting data collection, providing clear privacy controls, enabling data access and deletion through account management, and emphasizing on-device processing where possible.",
+    "ccpa_practices": [
+      "Privacy-by-design approach minimizing data collection",
+      "Data management through Manage Your Apple Account portal",
+      "Clear contact for privacy inquiries and corrections",
+      "Privacy governance documentation publicly available",
+      "Limited third-party data sharing",
+      "Transparency in government information requests"
+    ],
+    "ci_parameters": {
+      "sender": "Apple Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Apple customers and device users",
+      "recipient_role": "Data Subject",
+      "subject": "Device usage, account information, purchase history",
+      "subject_role": "Apple account holder",
+      "information_types": [
+        "Apple ID credentials and account data",
+        "Device information and usage",
+        "Purchase and subscription information",
+        "Device-specific identifiers"
+      ],
+      "purposes": [
+        "Provide device and service functionality",
+        "Improve products and services",
+        "Support and customer service"
+      ],
+      "consent_form": "Implicit consent for core functionality; controls for optional data collection",
+      "transmission_principle": "Limited sharing with service providers; emphasis on data minimization"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_007",
+    "company": "Adobe",
+    "industry": "Software/Cloud Services",
+    "compliance_type": "permitted",
+    "description": "Adobe provides CCPA-compliant practices through detailed privacy policy with explicit data handling descriptions, user rights disclosures, and mechanisms for accessing and controlling personal information across Creative Cloud and other services.",
+    "ccpa_practices": [
+      "Transparent data collection and usage descriptions",
+      "User rights documentation for CCPA compliance",
+      "Data subject access request mechanisms",
+      "Cookie and tracking technology controls",
+      "Subscription and preference management options",
+      "Third-party data processor agreements"
+    ],
+    "ci_parameters": {
+      "sender": "Adobe Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Users of Creative Cloud and other Adobe services",
+      "recipient_role": "Data Subject",
+      "subject": "Account data, document usage, subscription information",
+      "subject_role": "Adobe customer",
+      "information_types": [
+        "Account credentials and profile data",
+        "Document and project metadata",
+        "Usage analytics for cloud services",
+        "Device and browser information",
+        "Communication and support data"
+      ],
+      "purposes": [
+        "Provide Creative Cloud and software services",
+        "Deliver cloud storage and synchronization",
+        "Improve product features and performance",
+        "Support and customer service"
+      ],
+      "consent_form": "Consent for analytics and personalization features; opt-out mechanisms available",
+      "transmission_principle": "Sharing with service providers and cloud infrastructure partners under confidentiality agreements"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_008",
+    "company": "Netflix",
+    "industry": "Media/Entertainment Streaming",
+    "compliance_type": "permitted",
+    "description": "Netflix maintains CCPA compliance through privacy controls for streaming recommendations, user account management with data access options, and mechanisms for managing cookies and tracking preferences.",
+    "ccpa_practices": [
+      "Account settings for managing profile and preferences",
+      "Recommendation controls based on viewing history",
+      "Cookie and tracking preference management",
+      "Contact options for privacy inquiries",
+      "Subscription and billing information management",
+      "Download and deletion options for user content"
+    ],
+    "ci_parameters": {
+      "sender": "Netflix, Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Netflix subscribers",
+      "recipient_role": "Data Subject",
+      "subject": "Viewing history, account preferences, subscription data",
+      "subject_role": "Netflix subscriber",
+      "information_types": [
+        "Account credentials and profile information",
+        "Viewing history and watch time data",
+        "Device information",
+        "Payment and billing information",
+        "Preferences for personalized recommendations"
+      ],
+      "purposes": [
+        "Provide streaming service and content delivery",
+        "Personalize recommendations",
+        "Manage subscriptions and billing",
+        "Improve content recommendations algorithm"
+      ],
+      "consent_form": "Implicit consent for core streaming functionality; controls for personalized recommendations",
+      "transmission_principle": "Limited sharing with payment processors and CDN providers"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_009",
+    "company": "Slack Technologies",
+    "industry": "Workplace Communication/Productivity",
+    "compliance_type": "permitted",
+    "description": "Slack demonstrates CCPA compliance through workspace administrator controls, user data management options, and transparency about data processing for communication and collaboration purposes.",
+    "ccpa_practices": [
+      "Workspace administrator controls over employee data access",
+      "Clear data retention and deletion policies",
+      "User privacy settings for profile visibility",
+      "Export capabilities for archived messages and data",
+      "Third-party app permission management",
+      "Transparency about data processing for search and analytics"
+    ],
+    "ci_parameters": {
+      "sender": "Slack Technologies, Inc.",
+      "sender_role": "Data Processor/Controller",
+      "recipient": "Workspace members and administrators",
+      "recipient_role": "Data Subject",
+      "subject": "Workplace communication, messages, file sharing",
+      "subject_role": "Slack workspace member",
+      "information_types": [
+        "User profile information",
+        "Message content and metadata",
+        "File uploads and document sharing",
+        "Integration data from connected apps",
+        "Usage analytics (search history, channel participation)"
+      ],
+      "purposes": [
+        "Enable workplace communication and collaboration",
+        "Provide search and analytics features",
+        "Enable integrations with third-party apps",
+        "Maintain workspace security and compliance"
+      ],
+      "consent_form": "Implicit consent for core workspace functionality; opt-out for analytics features where available",
+      "transmission_principle": "Sharing with authorized integrations and service providers under user control"
+    }
+  },
+  {
+    "case_id": "CCPA_PERMITTED_010",
+    "company": "Dropbox",
+    "industry": "Cloud Storage/File Synchronization",
+    "compliance_type": "permitted",
+    "description": "Dropbox provides CCPA-compliant privacy practices through transparent data collection policies, user control over files and sharing, account deletion options, and clear communication about third-party integrations.",
+    "ccpa_practices": [
+      "User control over file sharing and permissions",
+      "Account deletion with file removal options",
+      "Clear notification of third-party app integrations",
+      "Device management and session controls",
+      "Two-factor authentication and security options",
+      "Transparency about data use for service improvement"
+    ],
+    "ci_parameters": {
+      "sender": "Dropbox, Inc.",
+      "sender_role": "Data Controller",
+      "recipient": "Dropbox users and authorized collaborators",
+      "recipient_role": "Data Subject",
+      "subject": "Files, folders, and shared documents",
+      "subject_role": "Dropbox account holder",
+      "information_types": [
+        "Account credentials and profile data",
+        "File content and metadata",
+        "Sharing and collaboration information",
+        "Device information and session data",
+        "Third-party integration credentials"
+      ],
+      "purposes": [
+        "Provide cloud storage and file synchronization",
+        "Enable file sharing and collaboration",
+        "Improve storage efficiency and service performance",
+        "Enable third-party integrations"
+      ],
+      "consent_form": "User control over file visibility and sharing permissions",
+      "transmission_principle": "User-controlled sharing with collaborators; limited integration with third-party services"
+    }
+  }
+]

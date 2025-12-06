@@ -1,0 +1,1012 @@
+{
+  "metadata": {
+    "source": "California Attorney General CCPA Enforcement Case Examples",
+    "url": "https://oag.ca.gov/privacy/ccpa/enforcement",
+    "total_cases": 39,
+    "updated": "08/24/2022",
+    "enforcement_start": "07/01/2020",
+    "note": "Cases updated after 01/01/2023 enforcement change: no longer requires notice/cure period before filing action"
+  },
+  "cases": [
+    {
+      "id": "case_001",
+      "title": "Online Retailers - Opt Out Procedures and GPC",
+      "industry": "Consumer Retail",
+      "issue": "Failure to honor consumer opt outs of sales",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Failed to honor Global Privacy Control (GPC) opt-out signals",
+        "Did not offer opt-out mechanism for sales",
+        "Did not ensure third parties were CCPA-compliant service providers"
+      ],
+      "ci_parameters": {
+        "senders": "Online retailers",
+        "recipients": "Third-party advertisers and analytics providers",
+        "subject": "Consumers",
+        "information_types": ["Personal information collected through tracking"],
+        "purposes": ["Advertising", "Analytics"],
+        "consent": "No opt-out mechanism provided"
+      },
+      "remedial_actions": [
+        "Reviewed and updated service-provider contracts",
+        "Implemented technology to communicate restricted use signal",
+        "Blocked transfers upon GPC detection"
+      ]
+    },
+    {
+      "id": "case_002",
+      "title": "Loyalty Programs - Financial Incentive Notices",
+      "industry": "Retail (clothing, home goods, food, hospitality, home improvement)",
+      "issue": "Noncompliant Notice of Financial Incentive",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Operating loyalty programs with financial incentives without compliant notice",
+        "Did not obtain proper opt-in consent",
+        "Did not clearly disclose material terms"
+      ],
+      "ci_parameters": {
+        "senders": "Retail businesses",
+        "recipients": "Consumers",
+        "subject": "Consumers",
+        "information_types": ["Personal information for loyalty programs"],
+        "purposes": ["Financial incentive programs"],
+        "consent": "No compliant opt-in obtained"
+      },
+      "remedial_actions": [
+        "Posted Notice of Financial Incentive at point of sale",
+        "Added deep links to online notices",
+        "Redesigned enrollment to capture express opt-in consent",
+        "Added ability to withdraw from program anytime"
+      ]
+    },
+    {
+      "id": "case_003",
+      "title": "Weblink Shortener - Privacy Policy and Request Methods",
+      "industry": "Technology",
+      "issue": "Non-Compliant Privacy Policy and No Request Methods",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Did not provide notice of CCPA consumer rights (right to know, delete, non-discrimination)",
+        "Did not disclose request methods for exercising rights",
+        "Did not state whether personal information was sold",
+        "No clear Do Not Sell My Personal Information link"
+      ],
+      "ci_parameters": {
+        "senders": "Weblink abbreviation service",
+        "recipients": "Consumers using service",
+        "subject": "Consumers",
+        "information_types": ["Personal information collected via service"],
+        "purposes": ["Service provision"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with required CCPA rights",
+        "Implemented two request methods for consumers",
+        "Added compliant opt-out link"
+      ]
+    },
+    {
+      "id": "case_004",
+      "title": "Healthcare Services - Request Processing Errors",
+      "industry": "Healthcare",
+      "issue": "Erroneous Treatment of Requests to Know",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Incorrectly treated requests to know as requests to delete",
+        "Permanently deleted personal information in error",
+        "Insufficient staff training on CCPA requirements"
+      ],
+      "ci_parameters": {
+        "senders": "Healthcare service provider",
+        "recipients": "Consumers/patients",
+        "subject": "Patients",
+        "information_types": ["Healthcare records", "COVID-19 vaccination data"],
+        "purposes": ["Healthcare service provision"],
+        "consent": "Patients have right to access their information"
+      },
+      "remedial_actions": [
+        "Implemented staff training on CCPA requirements",
+        "Refined request response process",
+        "Separated right to know from right to delete procedures"
+      ]
+    },
+    {
+      "id": "case_005",
+      "title": "Medical Device Manufacturer - Privacy Policy and Opt-Out",
+      "industry": "Medical Devices",
+      "issue": "Non-Compliant Privacy Policy; Required Waive/Limit CCPA Rights; Limited Requests; Sale of PI",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Required acceptance of terms to exercise CCPA rights",
+        "Limited to one request per 12 months",
+        "Confusing disclosures regarding data sales",
+        "No mechanism to opt-out of sale",
+        "Directed to third-party tool instead of providing direct opt-out"
+      ],
+      "ci_parameters": {
+        "senders": "Medical device manufacturer",
+        "recipients": "Data brokers, third-party advertisers",
+        "subject": "Consumers",
+        "information_types": ["Personal information collected via website"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Improperly conditioned on terms acceptance"
+      },
+      "remedial_actions": [
+        "Removed conditions on exercising CCPA rights",
+        "Added Do Not Sell My Personal Information link",
+        "Updated data sale disclosures"
+      ]
+    },
+    {
+      "id": "case_006",
+      "title": "Telehealth Portal - Notice at Collection and Privacy Policy",
+      "industry": "Telehealth Technology",
+      "issue": "Non-Compliant Privacy Policy; Non-Compliant Notice of Collection",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Link to notice at collection directed to wrong section",
+        "Privacy policy lacked required information disclosures",
+        "Did not describe information needed for verifiable consumer request",
+        "Did not list categories of personal information collected",
+        "Did not list categories of third parties for disclosures"
+      ],
+      "ci_parameters": {
+        "senders": "Telehealth platform",
+        "recipients": "Third parties",
+        "subject": "Consumers",
+        "information_types": ["Healthcare/medical information", "Personal data"],
+        "purposes": ["Healthcare service provision"],
+        "consent": "Not clearly disclosed"
+      },
+      "remedial_actions": [
+        "Deep-linked notice to relevant privacy policy section",
+        "Updated privacy policy with required disclosures",
+        "Listed categories of personal information collected",
+        "Listed categories of third parties"
+      ]
+    },
+    {
+      "id": "case_007",
+      "title": "Fitness Center Chain - Website Opt-Out and Cookie Options",
+      "industry": "Fitness Industry",
+      "issue": "Non-Compliant Opt-Out Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Confusing opt-out interface with unclear toggle language",
+        "Reverse toggle logic (on meant opt-in to sale, off meant opt-out)",
+        "Double negative confusing consumers",
+        "Directed to third-party trade association tool"
+      ],
+      "ci_parameters": {
+        "senders": "Fitness center chain",
+        "recipients": "Third-party advertisers",
+        "subject": "Consumers",
+        "information_types": ["Personal information from visits/memberships"],
+        "purposes": ["Sale of personal information", "Third-party advertising"],
+        "consent": "Confusing opt-out mechanism prevented true consent"
+      },
+      "remedial_actions": [
+        "Simplified opt-out language and options",
+        "Removed double negatives",
+        "Replaced confusing dropdown with simple toggle",
+        "Improved clarity on which setting effectuates opt-out"
+      ]
+    },
+    {
+      "id": "case_008",
+      "title": "FinTech for Minors - Privacy Policy and Required Links",
+      "industry": "Financial Technology",
+      "issue": "Non-Compliant Privacy Policy; Non-Compliant Opt-Out Process; Missing Notice",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice at collection about categories of PI collected",
+        "Did not state whether personal information was sold",
+        "Mobile app lacked notice at point of collection",
+        "For minors under 18, special data protections required"
+      ],
+      "ci_parameters": {
+        "senders": "FinTech service provider",
+        "recipients": "Service users (including minors)",
+        "subject": "Minors aged 13-16 and adults 18+",
+        "information_types": ["Financial information", "Age-related data"],
+        "purposes": ["Financial service provision"],
+        "consent": "Age-specific requirements for minors"
+      },
+      "remedial_actions": [
+        "Segregated data for minors under 18",
+        "Clearly stated no sale of minors' data",
+        "Added Do Not Sell link for 18+ users",
+        "Added notice at collection in mobile app"
+      ]
+    },
+    {
+      "id": "case_009",
+      "title": "People Search Company - Opt-Out and Verification Procedures",
+      "industry": "Data Broker",
+      "issue": "Non-Compliant Opt-Out Process and Verification Procedures",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Do Not Sell link worked only on certain browsers",
+        "Opt-out directed to confusing webpage with multiple steps",
+        "Required onerous verification process",
+        "Only one method to submit CCPA requests",
+        "Required terms/privacy acceptance to submit requests",
+        "Unclear if account creation required",
+        "Did not properly disclose CCPA metrics"
+      ],
+      "ci_parameters": {
+        "senders": "People search/data broker",
+        "recipients": "Data consumers",
+        "subject": "Individuals in people search database",
+        "information_types": ["Personal information in database"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Burdensome opt-out process prevented effective opt-out"
+      },
+      "remedial_actions": [
+        "Fixed Do Not Sell link to work on all browsers",
+        "Simplified opt-out process",
+        "Eliminated verification for opt-out/delete",
+        "Provided multiple request submission methods",
+        "Updated CCPA metrics disclosure"
+      ]
+    },
+    {
+      "id": "case_010",
+      "title": "Clothing Retailer - Opt-Out Mechanism",
+      "industry": "Clothing Retailer",
+      "issue": "Non-Compliant Opt-Out Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Do Not Sell link led to cookie management popup only",
+        "Did not provide mechanism to stop sale of personal information",
+        "Conflated cookie management with CCPA opt-out"
+      ],
+      "ci_parameters": {
+        "senders": "Clothing retailer",
+        "recipients": "Third-party data buyers",
+        "subject": "Consumers",
+        "information_types": ["Personal information from transactions"],
+        "purposes": ["Sale of personal information"],
+        "consent": "No true opt-out mechanism available"
+      },
+      "remedial_actions": [
+        "Added separate button to opt out of sale of personal information",
+        "Distinguished opt-out from cookie preferences",
+        "Offered both non-Californians and Californians opt-out"
+      ]
+    },
+    {
+      "id": "case_011",
+      "title": "Technology Platform - Authorized Agent Procedures",
+      "industry": "Technology",
+      "issue": "Non-Compliant Opt-Out and Request to Know Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Did not allow consumers to submit opt-out via authorized agents",
+        "Did not allow requests to know via authorized agents",
+        "Staff not trained on CCPA requirements",
+        "No process to direct consumers to exercise their CCPA rights"
+      ],
+      "ci_parameters": {
+        "senders": "Technology platform",
+        "recipients": "Consumers (and authorized agents)",
+        "subject": "Consumers",
+        "information_types": ["Personal financial information"],
+        "purposes": ["Service provision"],
+        "consent": "Authorized agents unable to act on consumer behalf"
+      },
+      "remedial_actions": [
+        "Implemented authorized agent request procedures",
+        "Updated privacy policy to describe agent procedures",
+        "Conducted staff CCPA training",
+        "Implemented technical solution for GPC (California IP detection)"
+      ]
+    },
+    {
+      "id": "case_012",
+      "title": "Wireless Network Provider - Request Procedures",
+      "industry": "Telecommunications",
+      "issue": "Consumer Requests to Know and Delete; Noncompliant Opt-Out Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Non-functional CCPA portal",
+        "Not accepting requests to know and delete",
+        "Non-functional GPC processing"
+      ],
+      "ci_parameters": {
+        "senders": "Wireless network provider",
+        "recipients": "Consumers",
+        "subject": "Customers",
+        "information_types": ["Personal information from service"],
+        "purposes": ["Service provision"],
+        "consent": "System failures prevented right to know/delete"
+      },
+      "remedial_actions": [
+        "Made CCPA portal functional",
+        "Implemented working request processes",
+        "Enabled GPC request processing"
+      ]
+    },
+    {
+      "id": "case_013",
+      "title": "Online Advertising Firm - Privacy Disclosures and Opt-Out",
+      "industry": "AdTech",
+      "issue": "Non-Compliant Privacy Policy and Opt-Out of Sale Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Privacy disclosures not easy to read or understand",
+        "Lacked required information in privacy policy",
+        "Opt-out method confusing with dysfunctional links"
+      ],
+      "ci_parameters": {
+        "senders": "Online advertising firm",
+        "recipients": "Advertisers using platform",
+        "subject": "Consumers",
+        "information_types": ["Online behavior/advertising data"],
+        "purposes": ["Targeted advertising"],
+        "consent": "Confusing opt-out prevented meaningful consent"
+      },
+      "remedial_actions": [
+        "Revised privacy policy with clear language",
+        "Hired UX designer to improve opt-out method",
+        "Fixed dysfunctional links"
+      ]
+    },
+    {
+      "id": "case_014",
+      "title": "Marketing Company - Service Provider Status",
+      "industry": "Online Marketing Services",
+      "issue": "Notice to Consumers",
+      "violation_type": "permitted",
+      "ccpa_violations": [
+        "Did not provide required notices to consumers",
+        "Did not provide methods to submit consumer requests"
+      ],
+      "ci_parameters": {
+        "senders": "Email marketing company",
+        "recipients": "Consumer email addresses",
+        "subject": "Consumers",
+        "information_types": ["Email addresses", "Marketing information"],
+        "purposes": ["Email marketing on behalf of customers"],
+        "consent": "Service provider relationship clarified"
+      },
+      "remedial_actions": [
+        "Provided evidence of service provider status",
+        "Confirmed non-use of data across multiple customers",
+        "Updated terms of service with CCPA service provider obligations"
+      ],
+      "note": "Ultimately compliant as service provider, not business"
+    },
+    {
+      "id": "case_015",
+      "title": "Social Media Network - Service Provider Contracts",
+      "industry": "Social Media Network",
+      "issue": "Non-Compliant Service Provider Contracts",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Service provider contracts lacked CCPA-specific restrictions",
+        "Did not prohibit service providers from retaining/using/disclosing PI"
+      ],
+      "ci_parameters": {
+        "senders": "Social media platform",
+        "recipients": "Third-party service providers",
+        "subject": "Users",
+        "information_types": ["User profile information", "Usage data"],
+        "purposes": ["Service provision"],
+        "consent": "Service provider obligations not contractually enforced"
+      },
+      "remedial_actions": [
+        "Added CCPA-specific addendums to service provider contracts"
+      ]
+    },
+    {
+      "id": "case_016",
+      "title": "Online Event Sales Company - Privacy Policy and Request Methods",
+      "industry": "Online Event Sales",
+      "issue": "Non-Compliant Privacy Policy; Lack of Request Methods",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "Did not disclose request methods",
+        "No clear statement on whether personal information sold/transferred"
+      ],
+      "ci_parameters": {
+        "senders": "Event sales company",
+        "recipients": "Consumers",
+        "subject": "Event attendees (including children)",
+        "information_types": ["Personal information for class/activity registration"],
+        "purposes": ["Event/activity provision"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with CCPA rights",
+        "Implemented two request methods",
+        "Stated whether PI was sold/transferred",
+        "Clarified no sale of personal information"
+      ]
+    },
+    {
+      "id": "case_017",
+      "title": "Online Dating Platform - Do Not Sell Link and Sales Disclosures",
+      "industry": "Online Dating",
+      "issue": "No Do Not Sell My Personal Information Link; Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No Do Not Sell link on homepage",
+        "Inadequate disclosures about sold personal information",
+        "Accept sharing button gave blanket consent to sale"
+      ],
+      "ci_parameters": {
+        "senders": "Online dating platform",
+        "recipients": "Data buyers",
+        "subject": "Dating app users",
+        "information_types": ["Profile information", "User preferences"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Blanket consent via single button was insufficient"
+      },
+      "remedial_actions": [
+        "Added clear Do Not Sell link to homepage",
+        "Updated privacy policy with compliant sales disclosures"
+      ]
+    },
+    {
+      "id": "case_018",
+      "title": "Online AdTech Service Provider/Business - Privacy Policy and Contracts",
+      "industry": "Online Advertising",
+      "issue": "Non-Compliant Privacy Policy; Non-Compliant Service Provider Contracts",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Privacy policy did not clearly distinguish service provider vs. business roles",
+        "Service provider contracts lacked necessary restrictions"
+      ],
+      "ci_parameters": {
+        "senders": "AdTech company (dual role)",
+        "recipients": "Streaming services, cable channels, advertisers",
+        "subject": "Consumers",
+        "information_types": ["Viewing behavior", "Advertisement preferences"],
+        "purposes": ["Ad targeting", "Service provision"],
+        "consent": "Role confusion prevented proper CCPA compliance"
+      },
+      "remedial_actions": [
+        "Clarified business vs. service provider roles",
+        "Stated no sale of personal information",
+        "Provided accessible CCPA request methods",
+        "Updated service provider contracts with CCPA restrictions"
+      ]
+    },
+    {
+      "id": "case_019",
+      "title": "Online Social Media App - Timely CCPA Responses",
+      "industry": "Social Media",
+      "issue": "Untimely Responses to CCPA Requests",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Not timely responding to requests to know and delete",
+        "No acknowledgment of receipt of requests",
+        "No notification that requests were effectuated"
+      ],
+      "ci_parameters": {
+        "senders": "Social media app",
+        "recipients": "Users",
+        "subject": "App users",
+        "information_types": ["User data", "Account information"],
+        "purposes": ["Service provision"],
+        "consent": "Timely response required by CCPA"
+      },
+      "remedial_actions": [
+        "Responded to outstanding requests",
+        "Updated CCPA response system",
+        "Ensured timely acknowledgment and response",
+        "Implemented notification system"
+      ]
+    },
+    {
+      "id": "case_020",
+      "title": "Children's Toys Distribution Company - Privacy Policy",
+      "industry": "Children's Toys Distribution",
+      "issue": "Non-Compliant Privacy Policy; Lack of Request Methods; Charging Fees",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "No methods to submit requests to know and delete",
+        "Did not list categories of personal information disclosed",
+        "Did not state whether PI was sold",
+        "Claimed could charge fees for requests to know"
+      ],
+      "ci_parameters": {
+        "senders": "Toys distribution company",
+        "recipients": "Consumers",
+        "subject": "Consumers (potentially including minors)",
+        "information_types": ["Purchase information", "Customer data"],
+        "purposes": ["Sale of toys"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with all required CCPA notices",
+        "Removed claim to charge fees"
+      ]
+    },
+    {
+      "id": "case_021",
+      "title": "Grocery Chain Loyalty Program - Notice of Financial Incentive",
+      "industry": "Grocery Retailer",
+      "issue": "No Notice of Financial Incentive",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Loyalty program exchanged personal information for incentive",
+        "Did not provide Notice of Financial Incentive"
+      ],
+      "ci_parameters": {
+        "senders": "Grocery chain",
+        "recipients": "Consumers",
+        "subject": "Loyalty program members",
+        "information_types": ["Personal information", "Loyalty/purchase data"],
+        "purposes": ["Financial incentive (loyalty rewards)"],
+        "consent": "No notice of incentive provided"
+      },
+      "remedial_actions": [
+        "Added Notice of Financial Incentive to privacy policy"
+      ]
+    },
+    {
+      "id": "case_022",
+      "title": "Online Classified Advertisements Company - Privacy Policy",
+      "industry": "Online Platform",
+      "issue": "Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "Did not state whether PI was sold or transferred for business purpose",
+        "First update failed to meet readability standards (jargon-heavy)",
+        "Required second notice for non-compliance"
+      ],
+      "ci_parameters": {
+        "senders": "Online classified ads platform",
+        "recipients": "Consumers",
+        "subject": "Classifieds users",
+        "information_types": ["Classified posting information", "User data"],
+        "purposes": ["Facilitate classified ads", "Potential data sales"],
+        "consent": "Not properly disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with required CCPA rights",
+        "Identified categories of PI transferred for business purpose",
+        "Stated no sale of personal information",
+        "Significantly revised policy for readability after second notice"
+      ]
+    },
+    {
+      "id": "case_023",
+      "title": "Media Conglomerate - Opt-Out Process and Notices",
+      "industry": "Mass Media and Entertainment",
+      "issue": "Non-Compliant Opt-Out Process; Notices to Consumers",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No methods to opt-out of sale of personal information",
+        "Only directed to third-party trade association tool",
+        "Privacy policy lacked required opt-out information",
+        "No Do Not Sell link on multiple digital properties"
+      ],
+      "ci_parameters": {
+        "senders": "Media conglomerate",
+        "recipients": "Advertisers, data buyers",
+        "subject": "Consumers",
+        "information_types": ["User viewing/behavior data"],
+        "purposes": ["Sale of personal information", "Targeted advertising"],
+        "consent": "No direct company opt-out available"
+      },
+      "remedial_actions": [
+        "Updated opt-out process with direct company opt-out",
+        "Updated privacy policy and notices",
+        "Added Do Not Sell link to all digital properties"
+      ]
+    },
+    {
+      "id": "case_024",
+      "title": "Data Broker - Opt-Out Method",
+      "industry": "Location Data",
+      "issue": "Non-Compliant Opt-Out Process",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Opt-out process directed only to mobile device settings",
+        "Webform did not clearly state it effectuates CCPA opt-out",
+        "Confusing about relationship between device settings and CCPA opt-out"
+      ],
+      "ci_parameters": {
+        "senders": "Location data broker",
+        "recipients": "Data buyers",
+        "subject": "Individuals",
+        "information_types": ["Location data"],
+        "purposes": ["Sale of location data"],
+        "consent": "Unclear opt-out mechanism"
+      },
+      "remedial_actions": [
+        "Updated webform to prominently feature it",
+        "Clarified webform allows full CCPA opt-out",
+        "Distinguished device settings from CCPA opt-out"
+      ]
+    },
+    {
+      "id": "case_025",
+      "title": "Automotive Business - In-Person Notice, Privacy Policy, Request Methods",
+      "industry": "Automotive",
+      "issue": "Notices to Consumers; Non-Compliant Privacy Policy; Lack of Toll-Free; Defective Methods",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Failed to provide notice at collection for test drive data",
+        "Privacy policy lacked CCPA rights description",
+        "No instructions for authorized agents",
+        "No toll-free number for CCPA requests",
+        "Online request methods were non-functional"
+      ],
+      "ci_parameters": {
+        "senders": "Automotive company",
+        "recipients": "Consumers",
+        "subject": "Test drive participants",
+        "information_types": ["Personal information collected at test drive"],
+        "purposes": ["Automobile sales/service"],
+        "consent": "No notice at collection provided"
+      },
+      "remedial_actions": [
+        "Implemented notice at collection for test drives (online and in-person)",
+        "Updated privacy policy with CCPA disclosures",
+        "Added toll-free phone number",
+        "Fixed non-functional online request methods"
+      ]
+    },
+    {
+      "id": "case_026",
+      "title": "Pet Industry Website - Authorized Agent and Sales",
+      "industry": "Pet Industry",
+      "issue": "Authorized Agent; Sales of Personal Information",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Required notarized verification for authorized agents",
+        "Confusing disclosures about data sales",
+        "No mechanism to opt-out of sale",
+        "Directed to third-party tool instead of direct opt-out"
+      ],
+      "ci_parameters": {
+        "senders": "Pet adoption platform",
+        "recipients": "Advertisers",
+        "subject": "Platform users",
+        "information_types": ["Pet preferences", "User data"],
+        "purposes": ["Sale of personal information", "Targeted advertising"],
+        "consent": "Onerous verification; no direct opt-out"
+      },
+      "remedial_actions": [
+        "Removed notarization requirement for agents",
+        "Added Do Not Sell link",
+        "Updated opt-out webform",
+        "Clarified full opt-out for all sales"
+      ]
+    },
+    {
+      "id": "case_027",
+      "title": "Grocery Chain - Authorized Agent Disclosures",
+      "industry": "Grocery Retailer",
+      "issue": "Authorized Agent; Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No information about authorized agents submitting requests",
+        "Other privacy policy omissions"
+      ],
+      "ci_parameters": {
+        "senders": "Grocery chain",
+        "recipients": "Consumers",
+        "subject": "Customers",
+        "information_types": ["Customer data", "Purchase information"],
+        "purposes": ["Grocery sales"],
+        "consent": "Authorized agents not accommodated"
+      },
+      "remedial_actions": [
+        "Updated privacy policy to explain authorized agent procedures",
+        "Included business requirements for verifying agent requests"
+      ]
+    },
+    {
+      "id": "case_028",
+      "title": "Mobile App Game - Sales of Minors' Personal Information",
+      "industry": "Online Gaming",
+      "issue": "Sales of Personal Information; Sales of Minors' Personal Information",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Installed third-party advertising software",
+        "Made available PI of minors (aged 13-15)",
+        "No opt-out mechanism for adults",
+        "No opt-in for minors"
+      ],
+      "ci_parameters": {
+        "senders": "Mobile game publisher",
+        "recipients": "Third-party advertisers",
+        "subject": "Game players (including minors)",
+        "information_types": ["Gameplay data", "User behavior"],
+        "purposes": ["Mobile advertising"],
+        "consent": "No mechanism for minors; no opt-out for adults"
+      },
+      "remedial_actions": [
+        "Removed third-party advertising software",
+        "Implemented age-gating",
+        "Added parental verification features"
+      ]
+    },
+    {
+      "id": "case_029",
+      "title": "Social Media Company - Privacy and Data Sales",
+      "industry": "Social Media Platform",
+      "issue": "Notices to Consumers; Sales of Personal Information",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Did not inform consumers about CCPA rights",
+        "Exchanged user data with analytics providers",
+        "No notices to consumers",
+        "No opt-out of sale mechanism"
+      ],
+      "ci_parameters": {
+        "senders": "Social media platform",
+        "recipients": "Third-party analytics providers",
+        "subject": "Platform users",
+        "information_types": ["User activity data", "Online behavior"],
+        "purposes": ["Analytics", "Sale of personal information"],
+        "consent": "No consent obtained or disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with CCPA rights",
+        "Removed all third-party trackers"
+      ]
+    },
+    {
+      "id": "case_030",
+      "title": "Electronics Manufacturer and Retailer - Sales of Personal Information",
+      "industry": "Consumer Electronics",
+      "issue": "Sales of Personal Information",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Third-party trackers on website shared data with advertisers",
+        "No service provider contracts with third parties",
+        "Did not process Global Privacy Control opt-out requests"
+      ],
+      "ci_parameters": {
+        "senders": "Electronics retailer",
+        "recipients": "Third-party advertisers",
+        "subject": "Website shoppers",
+        "information_types": ["Shopping behavior", "Online activity"],
+        "purposes": ["Targeted advertising"],
+        "consent": "No GPC processing; no consent mechanism"
+      },
+      "remedial_actions": [
+        "Worked with privacy vendor to effectuate GPC opt-outs",
+        "Avoided sharing data with third parties without proper agreements"
+      ]
+    },
+    {
+      "id": "case_031",
+      "title": "Media Conglomerate - Opt-Out and DNSMPI Links",
+      "industry": "Digital Media",
+      "issue": "Non-Compliant Opt-Out Process; Lack of Request Methods",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Required separate requests per website for opt-out",
+        "No Do Not Sell link on multiple digital properties"
+      ],
+      "ci_parameters": {
+        "senders": "Media conglomerate",
+        "recipients": "Advertisers",
+        "subject": "Website users",
+        "information_types": ["Browsing behavior", "User data"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Opt-out fragmented across websites"
+      },
+      "remedial_actions": [
+        "Streamlined opt-out process",
+        "Added Do Not Sell link to all digital properties"
+      ]
+    },
+    {
+      "id": "case_032",
+      "title": "National Grocery Chain - Privacy Policy",
+      "industry": "Grocery Retailer",
+      "issue": "Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No privacy policy disclosing PI collection and use",
+        "No notice of CCPA rights",
+        "No information about request submission methods",
+        "No statement about PI sales/transfers"
+      ],
+      "ci_parameters": {
+        "senders": "Grocery chain",
+        "recipients": "Consumers",
+        "subject": "Customers",
+        "information_types": ["Customer personal information"],
+        "purposes": ["Grocery sales", "Potential data sharing"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Posted privacy policy with required CCPA information",
+        "Implemented consumer request processes",
+        "Stated no sale of personal information"
+      ]
+    },
+    {
+      "id": "case_033",
+      "title": "Email Newsletters Platform - Privacy Policy and Request Methods",
+      "industry": "Email Subscription Platform",
+      "issue": "Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "Inadequate information about request submission",
+        "No statement about PI sales/transfers"
+      ],
+      "ci_parameters": {
+        "senders": "Email newsletter platform",
+        "recipients": "Subscribers",
+        "subject": "Email subscribers",
+        "information_types": ["Email addresses", "Subscription preferences"],
+        "purposes": ["Email newsletter distribution"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with CCPA rights",
+        "Listed PI transferred for business purpose",
+        "Specified request submission methods",
+        "Stated no sale of personal information"
+      ]
+    },
+    {
+      "id": "case_034",
+      "title": "Online Event Sales Company (alternate) - Privacy Policy",
+      "industry": "Online Event Sales",
+      "issue": "Non-Compliant Privacy Policy; Lack of Request Methods",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "No information about exercising CCPA rights",
+        "No statement about PI sales/disclosures"
+      ],
+      "ci_parameters": {
+        "senders": "Event ticket sales company",
+        "recipients": "Event attendees",
+        "subject": "Event ticket buyers",
+        "information_types": ["Purchase information", "Personal data"],
+        "purposes": ["Ticket sales"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with required CCPA information",
+        "Confirmed no sale of personal information"
+      ]
+    },
+    {
+      "id": "case_035",
+      "title": "Digital Partner - Privacy Policy and Rights Disclosure",
+      "industry": "Digital Experiences Partnerships",
+      "issue": "Non-Compliant Privacy Policy; Notices to Consumers; No DNSMPI Link",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Privacy policy did not disclose CCPA rights",
+        "Inadequate notice on PI collection/use/sale",
+        "No way to submit requests (phone or website)",
+        "No Do Not Sell link"
+      ],
+      "ci_parameters": {
+        "senders": "Digital strategy partner",
+        "recipients": "Consumers",
+        "subject": "Corporate clients' consumers",
+        "information_types": ["Personal information"],
+        "purposes": ["Digital strategy implementation"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with CCPA rights",
+        "Added Do Not Sell link",
+        "Provided phone and email for requests",
+        "Added telephone request method"
+      ]
+    },
+    {
+      "id": "case_036",
+      "title": "Data Broker - DNSMPI Link, Verification, and Account Requirements",
+      "industry": "Data Broker",
+      "issue": "No Do Not Sell Link; Verification; Account Creation",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "Non-functional Do Not Sell link",
+        "Required government ID copies and address verification for opt-out",
+        "Required account creation for requests",
+        "Onerous verification process"
+      ],
+      "ci_parameters": {
+        "senders": "Data broker",
+        "recipients": "Data consumers",
+        "subject": "Individuals in database",
+        "information_types": ["Personal information database"],
+        "purposes": ["Sale of personal information"],
+        "consent": "Verification burden prevented opt-out"
+      },
+      "remedial_actions": [
+        "Fixed Do Not Sell link",
+        "No longer requires verification for opt-out",
+        "Eliminated account creation requirement"
+      ]
+    },
+    {
+      "id": "case_037",
+      "title": "Video Game Distribution Company - Privacy Policy",
+      "industry": "Video Game Distribution",
+      "issue": "Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "Did not list categories of disclosed PI",
+        "No statement about PI sales",
+        "Incorrect instructions for exercising rights"
+      ],
+      "ci_parameters": {
+        "senders": "Game distribution platform",
+        "recipients": "Game players",
+        "subject": "Gamers",
+        "information_types": ["User account information", "Gaming data"],
+        "purposes": ["Game distribution", "User accounts"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with all required CCPA information",
+        "Corrected request procedures"
+      ]
+    },
+    {
+      "id": "case_038",
+      "title": "Education Technology Company - Privacy Policy and DNSMPI",
+      "industry": "Education Technology",
+      "issue": "Non-Compliant Privacy Policy; Lack of Request Methods; No DNSMPI Link",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "No methods to submit requests",
+        "Did not list categories of disclosed/sold PI",
+        "No non-discrimination notice",
+        "No Do Not Sell link on homepage"
+      ],
+      "ci_parameters": {
+        "senders": "EdTech platform",
+        "recipients": "Students, schools, businesses",
+        "subject": "Platform users",
+        "information_types": ["Educational data", "Usage information"],
+        "purposes": ["Online learning provision"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with full CCPA disclosures",
+        "Added Do Not Sell link to homepage"
+      ]
+    },
+    {
+      "id": "case_039",
+      "title": "Clothing Retailer (alternate) - Privacy Policy and Request Methods",
+      "industry": "Online Clothing Retailer",
+      "issue": "Non-Compliant Privacy Policy",
+      "violation_type": "prohibited",
+      "ccpa_violations": [
+        "No notice of CCPA consumer rights",
+        "No information about submitting requests",
+        "No statement about PI sales/transfers"
+      ],
+      "ci_parameters": {
+        "senders": "Online clothing retailer",
+        "recipients": "Customers",
+        "subject": "Online shoppers",
+        "information_types": ["Purchase information", "Personal data"],
+        "purposes": ["Clothing retail"],
+        "consent": "Not disclosed"
+      },
+      "remedial_actions": [
+        "Updated privacy policy with CCPA rights",
+        "Listed PI transferred for business purpose",
+        "Specified request submission methods",
+        "Stated no sale of personal information"
+      ]
+    }
+  ]
+}
