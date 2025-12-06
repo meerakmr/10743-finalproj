@@ -1,0 +1,1391 @@
+{
+  "v1_0": {
+    "imagename": "v1_0.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this image contains a pregnancy test along with a signed document which could lead to identification",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_1": {
+    "imagename": "v1_1.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this image is a medical report showing personal identifiers like patient name, date of birth, address, doctor name, occupation, and prescription information.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_2": {
+    "imagename": "v1_2.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this image shows a bank document with sensitive information like Account number and transaction details on a desk next to a monitor and a blue bag.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_3": {
+    "imagename": "v1_3.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the image shows UNO playing card which does not reveal identifying data.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_4": {
+    "imagename": "v1_4.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains personally identifiable information on a business card, including name, address, phone number, and email.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_5": {
+    "imagename": "v1_5.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive medical information visible on a pill container, revealing patient name and part of prescription details like dosage.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_6": {
+    "imagename": "v1_6.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive information on a receipt, including transaction details like account number and reference numbers.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_7": {
+    "imagename": "v1_7.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this image contains sensitive personal items including a pack of condom and other personal care products next to the lower part of an individual’s body.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_8": {
+    "imagename": "v1_8.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the product is food related containing standard consumer information and does not reveal identifying data.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_9": {
+    "imagename": "v1_9.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains personal information, including name, address, and private information regarding a school disciplinary matter.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_10": {
+    "imagename": "v1_10.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive medical information like patient name, date of birth, email, and medical history on a medical report next to a cleaning spray container held by an individual.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_11": {
+    "imagename": "v1_11.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains a bank card which reveals card holder name, card number, and expiration date",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_12": {
+    "imagename": "v1_12.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the image shows a banana and other objects in the background, which does not reveal any identifying data.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_13": {
+    "imagename": "v1_13.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive information on a receipt, including date of the transaction, account number, and transaction details.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_14": {
+    "imagename": "v1_14.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains a letter exposing personally identifiable information like name and address.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_15": {
+    "imagename": "v1_15.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the image shows a desk with a keyboard and various electronic device packages, without any sensitive information visible.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_16": {
+    "imagename": "v1_16.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains a positive pregnancy test along with the bathroom which could be linked back to the occupant.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_17": {
+    "imagename": "v1_17.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "The image shows a keyboard, pen, papers, and a note. However, no identifiable information can be seen. Therefore, there is no privacy risk.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_18": {
+    "imagename": "v1_18.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains a braille device and a mug along with a  bank card which reveals card holder name, card number, and expiration date.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_19": {
+    "imagename": "v1_19.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, this is an image of a book cover titled Naked Lunch by William S. Burroughs, displayed on a browser. However, there is no privacy risk as no identifying data is exposed.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_20": {
+    "imagename": "v1_20.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this the image contains sensitive medical and personal information, including emergency contact details and medical history.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_21": {
+    "imagename": "v1_21.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the image shows a package of baby pampers that does not reveal identifying data.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_22": {
+    "imagename": "v1_22.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive information on a receipt, including date, location details, and payment information next to the lower part of an individual’s body.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_23": {
+    "imagename": "v1_23.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, this image contains a personal letter revealing identifiable information like name and address.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_24": {
+    "imagename": "v1_24.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "The image shows a person holding a medicine container with pills. However, no identifiable information is shown. Therefore, it does not pose a privacy risk.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_25": {
+    "imagename": "v1_25.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, the image shows a comparative religious study exam and does not disclose any identifiable information.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_26": {
+    "imagename": "v1_26.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image contains sensitive medical information revealing partial medical conditions.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_27": {
+    "imagename": "v1_27.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "No, this image include a microphone, earphones, and a medication container, but no identifying information is visible.",
+    "capability": [
+      "vizpriv",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_28": {
+    "imagename": "v1_28.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image reveals a name and license number which could lead to identification.",
+    "capability": [
+      "vizpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_29": {
+    "imagename": "v1_28.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Omer: PERSON, 2. 78B5R2MVFAHJ48500: LICENSE NUMBER",
+    "capability": [
+      "ner"
+    ],
+    "imagesource": "web"
+  },
+  "v1_30": {
+    "imagename": "v1_30.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Gordon: PERSON, 2. 65696-5600: DOCUMENT/RECORD NUMBER, 3. [-71.0685, 160.906]: LOCATION, 4. Chronic disease management patients: Sensitive INFORMATION",
+    "capability": [
+      "ner"
+    ],
+    "imagesource": "web"
+  },
+  "v1_31": {
+    "imagename": "v1_31.png",
+    "question": "Does the image contain any sensitive information that could be a privacy risk?",
+    "answer": "Yes, the image reveals a name, location, organization, and email address which could lead to identification.",
+    "capability": [
+      "vizpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_32": {
+    "imagename": "v1_31.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Ms. Keebler: PERSON, 2. West Shemar: LOCATION, 3. Morissette - Russel: ORGANIZATION, 4. Hulda44@yahoo.com: EMAIL",
+    "capability": [
+      "ner",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_33": {
+    "imagename": "v1_33.png",
+    "question": "This image poses a privacy risk only because it contains a phone number that could identify an individual.",
+    "answer": "No, the image also contains sex, age, and social insurance number which could be combined to identify an individual.",
+    "capability": [
+      "vizpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_34": {
+    "imagename": "v1_33.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Male: Sex, 2. 44 years: Age, 3. 5442833110261561: Phone number, 4. 646 59 2654: SSN",
+    "capability": [
+      "ner",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_35": {
+    "imagename": "v1_35.png",
+    "question": "How many distinct organizations and individuals are mentioned in this tweet?",
+    "answer": "five<OR> 5",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_36": {
+    "imagename": "v1_36.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. CBS News: ORGANIZATION, 2. Tokyo: LOCATION, 3. Japan: LOCATION",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_37": {
+    "imagename": "v1_37.png",
+    "question": "How many locations are mentioned in this tweet, and can you specify their names?",
+    "answer": "3 locations: Larkin Square, Buffalo, NY",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_38": {
+    "imagename": "v1_37.png",
+    "question": "Label locations in the text with B-LOC (Beginning of a Location) and I-LOC (Inside a Location) tags.",
+    "answer": "Larkin: B-LOC, Square: I-LOC, Buffalo: B-LOC, NY: B-LOC",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_39": {
+    "imagename": "v1_39.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Mueller Sports Medicine: ORGANIZATION, 2. Rafael Nadal: PERSON, 3. Mueller Pro Team: ORGANIZATION",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_40": {
+    "imagename": "v1_40.png",
+    "question": "List any unique named entities in the image and classify them.",
+    "answer": "1. AL NASSR: ORGANIZATION, 2. RONALDO (رونالدو): PERSON, 3. AL NASSR Ettifaq: EVENT, 4. Roshn Saudi League: EVENT",
+    "capability": [
+      "ner",
+      "cntxpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_41": {
+    "imagename": "v1_41.png",
+    "question": "How many unique named entities are shown in the image?",
+    "answer": "three<OR> 3",
+    "capability": [
+      "ner",
+      "cntxpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_42": {
+    "imagename": "v1_42.png",
+    "question": "List any unique named entities in the image and classify them.",
+    "answer": "1. ООН (United NationsRU): ORGANIZATION, 2. Международный день студенческого спорта: EVENT, 3. UNESCO: ORGANIZATION",
+    "capability": [
+      "ner",
+      "cntxpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_43": {
+    "imagename": "v1_43.png",
+    "question": "List any unique named entities in the image and classify them.",
+    "answer": "1. 传聪大使: PERSON, 2. 安理会: ORGANIZATION, 3. 中国常驻联合国代表团: ORGANIZATION, 4. 黎巴嫩: Location, 5. 以色列: Location",
+    "capability": [
+      "ner",
+      "cntxpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_44": {
+    "imagename": "v1_44.png",
+    "question": "How many locations are mentioned in this tweet, and can you specify their names?",
+    "answer": "2 locations: Dubai and UAE",
+    "capability": [
+      "ner"
+    ],
+    "imagesource": "web"
+  },
+  "v1_45": {
+    "imagename": "v1_45.png",
+    "question": "List any named entities in the image and classify them.",
+    "answer": "1. Alfred Domb: Person, 2. Elon Musk: Person, 3. Tesla: Organization, 4. París (Paris): Location",
+    "capability": [
+      "ner",
+      "cntxpriv",
+      "multling"
+    ],
+    "imagesource": "web"
+  },
+  "v1_46": {
+    "imagename": "v1_46.png",
+    "question": "List any organization entities mentioned in the image.",
+    "answer": "1. Reuters, 2. NATO, 3. UN, 4. G7",
+    "capability": [
+      "ner",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_47": {
+    "imagename": "v1_47.png",
+    "question": "Can any individuals be identified and link them to their diseases using the join of Tables (a) and (b)? Provide examples.",
+    "answer": "Doug, a male lawyer who is 38 years old, is identified as an HIV patient by qid = Lawyer, Male, 38 after the join.",
+    "capability": [
+      "privrisk"
+    ],
+    "imagesource": "web"
+  },
+  "v1_48": {
+    "imagename": "v1_48.png",
+    "question": "Table B is the resultant table after applying K-Anonymity to Table A. What value of K has been applied?",
+    "answer": "four<OR> 4",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_49": {
+    "imagename": "v1_49.png",
+    "question": "Table B is the resultant table after applying K-Anonymity to Table A. What method has been applied and what is the value of K?",
+    "answer": "Suppression has been applied to Table A to obtain K=2 or 2-anonymous table B.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_50": {
+    "imagename": "v1_50.png",
+    "question": "What is the privacy threat arising from the non-de-identified public data in Fig. 2 even if the data in Fig. 1 is de-identified?",
+    "answer": "The released characteristics for Sue J. Doe leads to determine which medical data among those released are hers by knowing her birth date, sex, and marital status.",
+    "capability": [
+      "privrisk"
+    ],
+    "imagesource": "web"
+  },
+  "v1_51": {
+    "imagename": "v1_51.png",
+    "question": "Identify what attributes are quasi-identifiers and direct identifiers.",
+    "answer": "SSN is a direct identifier because it is unique for individuals, while gender, age, and zip code are quasi-identifiers because they can be shared between individuals.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_52": {
+    "imagename": "v1_52.png",
+    "question": "What Privacy measurements (if any) has been applied to this document?",
+    "answer": "Data redaction has been applied to make sensitive information invisible.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_53": {
+    "imagename": "v1_53.png",
+    "question": "What Privacy measurements (if any) has been applied to this document?",
+    "answer": "De-identification or Pseudonymization has been applied to replace identifiable information with pseudonyms.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_54": {
+    "imagename": "v1_54.png",
+    "question": "Under data protection laws, should the organization notify both the supervisory authority and the data subject in this scenario?",
+    "answer": "Yes, report to both depending on the scope and type of personal data involved.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_55": {
+    "imagename": "v1_55.png",
+    "question": "Did the company violate any of the privacy laws? If yes, identify specifically the violations under what law and what article.",
+    "answer": "The company violated Article 9 of the GDPR, Disclosure of Sensitive data, as health health data is considered sensitive.",
+    "capability": [
+      "law",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_56": {
+    "imagename": "v1_56.png",
+    "question": "What are the potential violations (if any) made by the organization?",
+    "answer": "The organization did not respond to the data subject asking for access to his information. Thus, the violation is failure to respond to an Access Request.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_57": {
+    "imagename": "v1_57.png",
+    "question": "Explain the information privacy scenario.",
+    "answer": "User cookies consent banner requests users to explicitly consent to data collection through cookies like tracking, analytics, and personalization.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_58": {
+    "imagename": "v1_58.png",
+    "question": "Identify which information privacy scenario is addressed and how it helps to protect data.",
+    "answer": "The image addresses the data retention policy. It explains how Amazon S3 Lifecycle helps manage the lifecycle of objects stored in S3 buckets by transitioning them to lower-cost storage classes or deleting them after they expire. This policy helps protect user privacy by ensuring that data is not stored unnecessarily and is deleted when it is no longer required.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_59": {
+    "imagename": "v1_59.png",
+    "question": "Identify the purpose of this information privacy.",
+    "answer": "The data minimization principle categorizes data into two types: data linked to the user's identity and data not linked to the user's identity. This distinction helps users understand what information is being collected, how it will be used, and how their privacy is protected. This allows the company to reduce the risk of privacy breaches and protect user data efficiently.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_60": {
+    "imagename": "v1_60.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "The company violates Article 17 of the GDPR, which grants individuals the right to erasure or right to be forgotten.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_61": {
+    "imagename": "v1_61.png",
+    "question": "Identify how this information privacy scenario is beneficial.",
+    "answer": "Facebook's Download Your Information tool allows users to access and download a copy of their personal data stored on the platform. This feature helps protect user privacy by giving individuals control over their data and enabling them to exercise their rights under the GDPR.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_62": {
+    "imagename": "v1_62.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "The company is potentially violating Article 37 of the GDPR, which requires large-scale data processing organizations to appoint a Data Protection Officer (DPO).",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_63": {
+    "imagename": "v1_63.png",
+    "question": "Explain the privacy method.",
+    "answer": "Homomorphic encryption is a cryptographic technique that allows computations to be performed on encrypted data without decrypting it first. In the example, the plaintext values 10 and 15 are encrypted to 100 and 150, respectively. The addition operation is then performed on the encrypted values, resulting in 250. Finally, the encrypted result is decrypted to obtain the original plaintext result of 25.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_64": {
+    "imagename": "v1_64.png",
+    "question": "Analyze the data breach notification and implications.",
+    "answer": "The statement indicates that there has been a data breach involving unauthorized access to personal information of users, including employees. This suggests a potential compromise of sensitive data, such as names, addresses, and contact information.",
+    "capability": [
+      "know",
+      "privrisk"
+    ],
+    "imagesource": "web"
+  },
+  "v1_65": {
+    "imagename": "v1_65.png",
+    "question": "Identify the privacy method.",
+    "answer": "Homomorphic encryption allows for computations to be performed directly on encrypted data without requiring decryption.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_66": {
+    "imagename": "v1_66.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 35: Failure to perform a Data Protection Impact Assessment (DPIA).",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_67": {
+    "imagename": "v1_67.png",
+    "question": "How does Apple's federated learning approach enhance privacy in the context of Siri setup?",
+    "answer": "Federated learning allows Siri to improve voice recognition without compromising user privacy. By training the model locally on users' devices, Apple avoids sending sensitive audio data to the cloud. This reduces the risk of data breaches and maintains confidentiality.",
+    "capability": [
+      "pet",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_68": {
+    "imagename": "v1_68.png",
+    "question": "What should be considered when applying this privacy method?",
+    "answer": "Partially homomorphic encryption allows for a limited set of operations (in this case, concatenation) to be performed directly on encrypted data without decryption. However, it does not support arbitrary computations, as seen from the incorrect decryption result HELLO.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_69": {
+    "imagename": "v1_69.png",
+    "question": "What privacy regulation related to children's data is being violated in this scenario?",
+    "answer": "Violation of COPPA (Children’s Online Privacy Protection Act) - Failure to obtain parental consent.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_70": {
+    "imagename": "v1_70.png",
+    "question": "Explain the privacy method used.",
+    "answer": "Anonymization involves removing or modifying personal identifiers such as names, addresses (zip codes), and sensitive demographic information like birth dates and genders. This helps protect patient privacy and ensures that individuals cannot be easily re-identified from the data.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_71": {
+    "imagename": "v1_71.png",
+    "question": "Explain the role of the computation server in the system.",
+    "answer": "The computation server acts as a central hub for processing encrypted data. It receives encrypted contingency tables from multiple medical centers, performs computations on these encrypted tables, and sends the intermediate results back to the medical centers. This ensures that sensitive patient data remains encrypted throughout the analysis.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_72": {
+    "imagename": "v1_72.png",
+    "question": "Explain the role of the public and private keys.",
+    "answer": "The public key is used to encrypt the medical records, ensuring that only the authorized party with the corresponding private key can decrypt and access the data. This prevents unauthorized disclosure of sensitive information.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_73": {
+    "imagename": "v1_73.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 5(1)e, data retention beyond necessity violates data minimization.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_74": {
+    "imagename": "v1_74.png",
+    "question": "Explain the privacy measure for protecting card numbers.",
+    "answer": "Encryption helps protect sensitive information from unauthorized access and potential data breaches. Storage in encrypted format ensures that even if the data is compromised, the actual card numbers remain confidential.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_75": {
+    "imagename": "v1_75.png",
+    "question": "How does federated learning help in this application?",
+    "answer": "Federated learning protects user privacy by keeping sensitive data, such as typing patterns and message content, local to the user's device. The model learns from this data without it ever being transmitted to a central server, reducing the risk of data breaches.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_76": {
+    "imagename": "v1_76.png",
+    "question": "How does MPC preserve patient privacy?",
+    "answer": "Multiparty computation allows the hospitals to perform joint computations on their data without revealing individual patient records. By using cryptographic techniques, the hospitals can securely combine and analyze the data, ensuring that each party only receives the necessary information for their computations.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_77": {
+    "imagename": "v1_77.png",
+    "question": "Identify the type of privacy measure implemented.",
+    "answer": "Age restriction measure is a type of access control that limits access to certain content or services based on the user's age. This helps protect minors from accessing age-restricted products like alcohol.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_78": {
+    "imagename": "v1_78.png",
+    "question": "Analyze any privacy measure.",
+    "answer": "A Fraudulent Activity Detected alert indicates that a security measure is in place to monitor transactions for potential fraud. This could involve various techniques, such as anomaly detection and machine learning algorithms, to identify suspicious activities and prevent financial losses.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_79": {
+    "imagename": "v1_79.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 44, Lack of adequate data protection safeguards for international transfers.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_80": {
+    "imagename": "v1_80.png",
+    "question": "How does this measure protect privacy?",
+    "answer": "An access denied message indicates that a security mechanism is in place to restrict unauthorized access to resources. This could involve authentication measures like passwords to ensure that only authorized individuals can access specific information to safeguard against privacy attacks.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_81": {
+    "imagename": "v1_81.png",
+    "question": "How does this method improve privacy?",
+    "answer": "The end-to-end encryption for backup data ensures that only the intended recipient (the user) can access and decrypt the backup, protecting it from unauthorized access and potential data breaches.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_82": {
+    "imagename": "v1_82.png",
+    "question": "What privacy measure is applied and how does it protect user privacy?",
+    "answer": "Differential privacy adds noise to individual data points to obscure the contribution of any single user. This protects user privacy by preventing the identification of individual responses while still allowing for meaningful data analysis.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "ChestX-ray14"
+  },
+  "v1_83": {
+    "imagename": "v1_83.png",
+    "question": "Explain the mechanism and how it protects privacy in this scenario.",
+    "answer": "End-to-end encryption ensures that only the sender and the intended recipient can read the data being transmitted. In this case, the message Are these the latest test results? is encrypted during transmission, appearing as gibberish to anyone who intercepts it. Only the recipient, who possesses the decryption key, can decipher the message and read its contents. This helps protect sensitive information from unauthorized access.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "ChestX-ray14"
+  },
+  "v1_84": {
+    "imagename": "v1_84.png",
+    "question": "What is this software and how does it increase privacy?",
+    "answer": "The Tor Browser provides users anonymity while browsing the internet. Unlike traditional web browsers, Tor uses a network of relay servers to route traffic and hide the user's IP address, making it difficult for websites or third parties to track their online activities.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "ChestX-ray14"
+  },
+  "v1_85": {
+    "imagename": "v1_85.png",
+    "question": "Analyze the privacy implications of the message displayed in the image.",
+    "answer": "The notice requires users to consent to network monitoring as a condition for access. While monitoring network traffic can be a valuable security measure, it also raises privacy concerns as it involves collecting and analyzing user data.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_86": {
+    "imagename": "v1_86.png",
+    "question": "Explain how this helps with GDPR compliance.",
+    "answer": "The site is complying with GDPR by obtaining explicit consent from users before sending promotional emails. This demonstrates compliance to data privacy laws and ensures that users have control over how their personal information is used.",
+    "capability": [
+      "law",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_87": {
+    "imagename": "v1_87.png",
+    "question": "Is the organization potentially liable for penalties, and if so, under what privacy regulations?",
+    "answer": "Yes, the organization is potentially liable for penalties under the GDPR Article 33.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_88": {
+    "imagename": "v1_88.png",
+    "question": "Analyze how privacy-preserving machine learning can be applied.",
+    "answer": "A recommendation model can be trained on encrypted customer data to protect user privacy. By using privacy-preserving machine learning, the model can learn and make recommendations without directly accessing or revealing sensitive information about individual users' preferences.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_89": {
+    "imagename": "v1_89.png",
+    "question": "Has the Canadian company violated PIPEDA regulations?",
+    "answer": "Yes, PIPEDA requires organizations to inform customers about cross-border transfers of personal data and ensure that the data is adequately protected in the receiving country.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_90": {
+    "imagename": "v1_90.png",
+    "question": "Explain the privacy concept illustrated.",
+    "answer": "It shows the process of encryption and decryption. The original message (Hello!) is transformed into an encrypted form (e3AQ%q) using an encryption algorithm. This encrypted data can only be decrypted using the corresponding decryption key, revealing the original message (Hello!). This helps protect sensitive information from unauthorized access.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_91": {
+    "imagename": "v1_91.png",
+    "question": "How does this technology contribute to the prevention of threats in this scenario?",
+    "answer": "User behavior analytics (UBA) establishes baseline behaviors for employees and identifies deviations from normal patterns. In this case, the UBA system flagged the employee's unusual access attempts, allowing the company to investigate and mitigate the potential risk of unauthorized access to customer data.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_92": {
+    "imagename": "v1_92.png",
+    "question": "What privacy mechanism is illustrated and how does it work?",
+    "answer": "A secure multi-party computation (SMPC) is shown, where multiple parties (Contributor A, Service Provider, and Analyst) can collaboratively compute on shared data without revealing their individual inputs. SMPC is used to ensure that each party only receives the necessary information to perform their computations while preserving the privacy of the original data.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_93": {
+    "imagename": "v1_93.png",
+    "question": "Explain the data redaction techniques illustrated in the image.",
+    "answer": "Full masking replaces the entire record, partial masking conceals portions of the value, RegExp replaces specific patterns with a placeholder, and Random replaces the value with a random string.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_94": {
+    "imagename": "v1_94.png",
+    "question": "Analyze the privacy measure and its effectiveness.",
+    "answer": "The image displays a redacted message, where portions of the text have been obscured. Redaction can help protect sensitive information from unauthorized access, but it might still be possible to infer certain details or make connections with other publicly available data.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_95": {
+    "imagename": "v1_95.png",
+    "question": "Analyze the privacy implications of user-generated content.",
+    "answer": "User-generated content like reviews can contain personal information that is publicly accessible. This raises privacy concerns as anyone can read, collect, and use this information. The platform may not have control over how users handle their personal data which can lead to potential attacks.",
+    "capability": [
+      "know",
+      "privrisk"
+    ],
+    "imagesource": "web"
+  },
+  "v1_96": {
+    "imagename": "v1_96.png",
+    "question": "Identify the encryption components involved and their roles in privacy.",
+    "answer": "The encryption uses a symmetric key algorithm. The input text is encrypted using a key and an initialization vector (IV). The encrypted ciphertext is then shown, demonstrating the transformation of the original data into a seemingly random sequence. This helps protect the confidentiality by making it unintelligible to unauthorized parties.",
+    "capability": [
+      "pet",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_97": {
+    "imagename": "v1_97.png",
+    "question": "What is this mechanism and how does it impact privacy?",
+    "answer": "In a role-based access control (RBAC) model, different departments (Sales, Finance, Engineering) have varying levels of access to different data resources (Customer Database, Payroll, Codebase). This ensures that employees only have access to the information they need to perform their job duties, reducing the risk of unauthorized access and data breaches.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_98": {
+    "imagename": "v1_98.png",
+    "question": "Is the company’s practice in compliance with PIPEDA?",
+    "answer": "No, under PIPEDA, personal data must not be retained longer than necessary for the fulfillment of the purpose for which it was collected.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_99": {
+    "imagename": "v1_99.png",
+    "question": "What measure is shown and what implications it has on privacy?",
+    "answer": "Multi-factor authentication (MFA) requires users to provide multiple forms of identification to access an account. In this case, the user is prompted to enter their login credentials (username and password) and then verify their identity using a second factor, such as a fingerprint or a code sent to their mobile device. This additional layer of security helps protect against unauthorized access and enhances data privacy.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_100": {
+    "imagename": "v1_100.png",
+    "question": "Compare the privacy threats between the two receipts.",
+    "answer": "The credit card numbers in the second receipt is partially redacted, where data masking is applied to protect sensitive information. However, the first receipt displays the full credit card number, which poses a significant privacy risk if the receipt is lost or compromised.",
+    "capability": [
+      "privrisk"
+    ],
+    "imagesource": "web"
+  },
+  "v1_101": {
+    "imagename": "v1_101.png",
+    "question": "Analyze the privacy implications of this attack.",
+    "answer": "This is a classic ransomware attack, where the victim's files have been encrypted and a ransom is demanded for decryption. This type of attack poses a significant privacy risk as it can expose sensitive personal and business data.",
+    "capability": [
+      "privrisk",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_102": {
+    "imagename": "v1_102.png",
+    "question": "Analyze the potential consequences of the delayed breach notification.",
+    "answer": "The cloud service provider violated the terms of the data protection agreement and potentially breached data protection regulations by not notifying the company promptly. This delay could allow the attackers to exploit the stolen data for longer, increasing the risk of identity theft, financial fraud, and other harm to affected individuals. The company may face sanctions and other regulatory consequences.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_103": {
+    "imagename": "v1_103.png",
+    "question": "Identify the privacy-preserving technique and its purpose.",
+    "answer": "Anonymization or data masking is applied where direct identifiers like names are replaced with a series of asterisks or randomly generated strings. This helps protect individual privacy by making it difficult to re-identify individuals from the data.",
+    "capability": [
+      "pet",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_104": {
+    "imagename": "v1_104.png",
+    "question": "What privacy regulation and article mandates that sensitive health data should have been encrypted in this scenario?",
+    "answer": "GDPR Article 32 mandates ensuring data security via encryption.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_105": {
+    "imagename": "v1_105.png",
+    "question": "Analyze the privacy implications of the data shown and discuss risks associated with sharing such information.",
+    "answer": "The image contains personal information about an individual, including their name, age, gender, nationality, job, programming languages, and company. Sharing this data without proper anonymization or consent could pose privacy risks. While the data in the image is not directly identifiable, combining it with other publicly available information could potentially allow for re-identification.",
+    "capability": [
+      "privrisk",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_106": {
+    "imagename": "v1_106.png",
+    "question": "Analyze the privacy technique used in the image.",
+    "answer": "Pseudonymization is used to replace real names with pseudonyms, and it helps protect patient privacy and prevent direct identification.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_107": {
+    "imagename": "v1_107.png",
+    "question": "Identify the privacy technique used in the image.",
+    "answer": "Anonymization, data masking, or data redaction is used to obfuscate sensitive data, such as credit card number and SSN.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_108": {
+    "imagename": "v1_108.png",
+    "question": "What are some of the potential privacy implications of this?",
+    "answer": "The image shows a biometric authentication system using fingerprint recognition. Fingerprint data is highly sensitive and can be used to uniquely identify individuals and therefore must be protected with suitable privacy measures.",
+    "capability": [
+      "privrisk",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_109": {
+    "imagename": "v1_109.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of Article 33 of the GDPR, which requires organizations to notify the supervisory authority of a personal data breach without undue delay and, where feasible, within 72 hours of becoming aware of the breach.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_110": {
+    "imagename": "v1_110.png",
+    "question": "Identify the privacy measure and highlight how it protect user privacy.",
+    "answer": "Federated learning is a privacy-preserving machine learning technique that protects user privacy by keeping sensitive data, such as individual purchase history and preferences, local to the user's device. This prevents the collection and transmission of personal data to a central server, reducing the risk of data breaches and maintaining confidentiality.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_111": {
+    "imagename": "v1_111.png",
+    "question": "What privacy technique (if any) is being applied here?",
+    "answer": "This is a form of data anonymization where direct identifiers (names) have been replaced with random strings. This pseudonymization can help protect privacy by making it more difficult to re-identify individuals.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_112": {
+    "imagename": "v1_112.png",
+    "question": "Is the company’s practice in compliance with PIPEDA?",
+    "answer": "No, under PIPEDA, organizations must notify affected individuals \"as soon as feasible\" when a breach poses a real risk of significant harm.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_113": {
+    "imagename": "v1_113.png",
+    "question": "How are voter identities and votes protected from unauthorized access in this blockchain-based voting system?",
+    "answer": "Voter identities and votes are protected using zero-knowledge proofs (ZKPs). ZKPs allow voters to prove their eligibility to vote without revealing their identity or how they voted, ensuring privacy and security in the voting process.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_114": {
+    "imagename": "v1_114.png",
+    "question": "What principle of the GDPR has been violated by the healthcare company?",
+    "answer": "Violation of the data minimization and purpose limitation principles, which require that personal data must be collected only for specified, legitimate purposes and not stored longer than necessary.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_115": {
+    "imagename": "v1_115.png",
+    "question": "What technique is illustrated which enables the two entities to collaborate without compromising individual privacy?",
+    "answer": "Secure multi-party computation is illustrated, and it allows two or more parties to jointly compute functions over their private inputs without revealing the individual inputs to each other. This ensures that the privacy of each party's data is preserved while enabling valuable insights to be extracted.",
+    "capability": [
+      "pet",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_116": {
+    "imagename": "v1_116.png",
+    "question": "What GDPR requirement has been violated in this scenario?",
+    "answer": "Violation of the consent requirement under GDPR, which mandates that users must give explicit and informed consent before their personal data is processed or shared with third parties.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_117": {
+    "imagename": "v1_117.png",
+    "question": "How does the website obtain user consent and what options are provided to users for managing their preferences?",
+    "answer": "The website uses a cookie banner to obtain user consent for the use of third-party cookies. The banner provides clear information about the purpose of the cookies and offers users the option to Accept or Reject all cookies. Additionally, the banner may include a link to a Privacy Preference Center where users can manage their cookie settings in more detail.",
+    "capability": [
+      "know",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_118": {
+    "imagename": "v1_118.png",
+    "question": "What measure is applied here, and how does it protect sensitive information?",
+    "answer": "Data Tokenization is used to replace plaintext values with randomly generated tokens. Tokenization replaces sensitive information with random tokens, making it difficult for unauthorized individuals to access or misuse the personal data.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_119": {
+    "imagename": "v1_119.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 6, Lack of lawful basis for data processing.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_120": {
+    "imagename": "v1_120.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 28, Lack of a Data Protection Agreement (DPA) with the third party.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_121": {
+    "imagename": "v1_121.png",
+    "question": "What is the potential privacy risk in this scenario despite de-identification?",
+    "answer": "The presence of quasi-identifiers like ZIP codes and birthdates allows for re-identification by linking de-identified data with external datasets.",
+    "capability": [
+      "privrisk",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_122": {
+    "imagename": "v1_122.png",
+    "question": "Identify GDPR violations (if any).",
+    "answer": "Violation of GDPR Article 13 , Lack of transparency in data collection.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_123": {
+    "imagename": "v1_123.png",
+    "question": "What measures are taken to ensure user privacy?",
+    "answer": "The app uses a clear and concise consent banner to obtain user permission for collecting GPS location and app data.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_124": {
+    "imagename": "v1_124.png",
+    "question": "Does the institution comply with GDPR’s standards?",
+    "answer": "No, retaining bank account numbers while replacing names does not fully comply with GDPR, as bank account numbers are considered direct identifiers and should be anonymized or protected with adequate privacy-preserving measures.",
+    "capability": [
+      "law",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_125": {
+    "imagename": "v1_125.png",
+    "question": "What specific GDPR right has been violated in this scenario?",
+    "answer": "The company violated the right of access under GDPR, which requires organizations to respond within one month and provide data free of charge.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_126": {
+    "imagename": "v1_126.png",
+    "question": "Did the organization comply with GDPR requirements for cross-border data transfers?",
+    "answer": "No, under GDPR, cross-border transfers must be conducted with appropriate safeguards and customers must be informed.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_127": {
+    "imagename": "v1_127.png",
+    "question": "What GDPR article requires DPIA and under which situation?",
+    "answer": "According to Article 35 of GDPR, a DPIA is mandatory for high-risk processing, particularly when involving sensitive data.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_128": {
+    "imagename": "v1_128.png",
+    "question": "Identify key compliance measures mentioned.",
+    "answer": "The key compliance measures mentioned are related to PIPEDA concerning appropriate consent management.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_129": {
+    "imagename": "v1_129.png",
+    "question": "What K-Anonymity methods are applied in the table?",
+    "answer": "Two k-anonymity methods are applied, suppression for replacing names and religion with asterik and generalization for border category on age.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_130": {
+    "imagename": "v1_130.png",
+    "question": "What GDPR principle is breached in this scenario and under what article?",
+    "answer": "The Principle of confidentiality as part of GDPR's security obligations under Article 32 has been violated.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_131": {
+    "imagename": "v1_131.png",
+    "question": "Which privacy measure is applied to EMPL_PASSWORD and what does it do?",
+    "answer": "Hashing is applied to the EMPL_PASSWORD. Hashing is a one-way cryptographic function that takes an input the plaintext password and produces a fixed-size output, the hash value.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_132": {
+    "imagename": "v1_132.png",
+    "question": "What data privacy measures might be in place and how do they protect user's movie recommendations?",
+    "answer": "Pseudonymization or anonymization may be in place, replacing personally identifiable information like names with pseudonyms, making it difficult to link specific recommendations to the individual user.",
+    "capability": [
+      "pet"
+    ],
+    "imagesource": "web"
+  },
+  "v1_133": {
+    "imagename": "v1_133.png",
+    "question": "Does the company’s data retention policy comply with GDPR?",
+    "answer": "Yes, the company complies with GDPR as it limits data storage for a limited period and deletes the data securely afterward.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_134": {
+    "imagename": "v1_134.png",
+    "question": "What privacy concerns might arise from this, and how can they be addressed?",
+    "answer": "CAPTCHA challenges can collect and process personal data, such as IP addresses and user behavior. To mitigate these risks, CAPTCHA providers should implement robust data privacy measures, including obtaining user consent, limiting data retention, and ensuring that collected data is used solely for the intended purpose of preventing automated abuse.",
+    "capability": [
+      "privrisk",
+      "cntxpriv"
+    ],
+    "imagesource": "web"
+  },
+  "v1_135": {
+    "imagename": "v1_135.png",
+    "question": "Explain which company complies with privacy rights under GDPR.",
+    "answer": "AppCorp meets GDPR requirements by allowing users to download their data in a portable format for transfer to other services. WebTech violates the data portability right under GDPR by not allowing users to transfer their data.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_136": {
+    "imagename": "v1_136.png",
+    "question": "Explain which company violates privacy rights under GDPR.",
+    "answer": "NewsFlow violates GPDR by delaying its response to multiple Data Subject Access Requests for several months. On the other hand, E-LearnCo appears to be compliant with GDPR by providing the requested information within the 30-day period.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_137": {
+    "imagename": "v1_137.png",
+    "question": "How does the third-party auditor contribute to privacy compliance?",
+    "answer": "The third-party auditor independently verifies the privacy protocols between the user and the cloud service provider by monitoring security measures, verifying compliance, and providing assurance to users.",
+    "capability": [
+      "law"
+    ],
+    "imagesource": "web"
+  },
+  "v1_138": {
+    "imagename": "v1_138.png",
+    "question": "What mistake did David make to compromise his privacy?",
+    "answer": "David connected to an unsecured public WiFi to access sensitive information, making it easy for attackers to intercept his bank credentials. He should have used a secure network or a VPN for privacy protection.",
+    "capability": [
+      "privrisk",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_139": {
+    "imagename": "v1_139.png",
+    "question": "What are the risks if we ignore this notification?",
+    "answer": "Ignoring the software update notification can pose privacy risks as updates often include security patches that address vulnerabilities that could be exploited by malicious actors. Ignoring these updates may leave our personal data vulnerable to attacks, such as malware infections.",
+    "capability": [
+      "privrisk",
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_140": {
+    "imagename": "v1_140.png",
+    "question": "Why is it important to follow this step?",
+    "answer": "Backing up data ensures that important files are securely saved and can be recovered in case of device failure, loss, or accidental deletion.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_141": {
+    "imagename": "v1_141.png",
+    "question": "Why is enabling multifactor authentication important for Sarah?",
+    "answer": "Sarah should enable MFA to ensure that even if her password is leaked, a second form of verification, like a code sent to her phone, is required to access her account. It adds a second layer of security, preventing unauthorized access to personal data.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_142": {
+    "imagename": "v1_142.png",
+    "question": "How could Tom have been cautious about protecting his privacy?",
+    "answer": "Tom should have only downloaded software from trusted sources and ensured his privacy by using antivirus software and reading user reviews before downloading.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_143": {
+    "imagename": "v1_143.png",
+    "question": "Why was Sarah unable to recover her lost data, and what preventive measures could she have taken to avoid this?",
+    "answer": "Sarah lost her data because she didn't have a backup, making recovery impossible after hardware failure. To prevent future loss, she should regularly back up her files to external or cloud storage and use backup software to automate the process.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_144": {
+    "imagename": "v1_144.png",
+    "question": "Why is it important to update passwords regularly?",
+    "answer": "Regular password changes reduce the risk of long-term exposure from past breaches or data leaks.",
+    "capability": [
+      "know"
+    ],
+    "imagesource": "web"
+  },
+  "v1_145": {
+    "imagename": "v1_145.png",
+    "question": "How does the company obtain user consent?",
+    "answer": "The company obtains user consent through a clear and explicit opt-in mechanism. Users are required to check a box indicating their agreement to the Terms of Service and Privacy Policy, as well as their consent to receive marketing communications.",
+    "capability": [
+      "law",
+      "know"
+    ],
+    "imagesource": "web"
+  }
+}
