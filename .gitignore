@@ -21,10 +21,9 @@ ENV/
 .env.local
 *.key
 
-# Logs (but include PrivaCI-Bench core files)
+# Logs
 *.log
 logs/
-PrivaCI-Bench/logs/
 
 # OS
 .DS_Store
